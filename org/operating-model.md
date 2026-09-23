@@ -44,7 +44,7 @@ Chain: `lead-research-assistant` → `cold-email` → `sales-enablement` → `le
 Audience first, monetize second, own the list.
 Chain: `personal-brand` → `content-strategy` → `social-content` → `lead-magnets` → `email-sequence` → `offer-creation` → `passive-income-systems`
 
-**Current live asset:** The Wealth Architect System (`/product/`) is a Content/Creator + digital-product play — first BU with a shipped offer. Status: built, not yet launched. Owner: you (Chief of Staff should be chasing this to "live" status until first sale lands).
+**Current live asset:** The Wealth Architect System (`/product/`) is a Content/Creator + digital-product play — first BU with a shipped offer. Status: v2 built (16-page designed guide + 3 custom infographics + bonus AI prompt system, upgraded from a thin v1 prompt-only sheet after user feedback that v1 wasn't worth $19) — not yet launched. Owner: you (Chief of Staff should be chasing this to "live" status until first sale lands).
 
 ---
 

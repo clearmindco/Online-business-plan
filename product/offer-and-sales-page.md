@@ -6,12 +6,13 @@
 
 | Included | Standalone value |
 |---|---|
-| The 9-Phase Wealth Architect master prompt (copy-paste ready) | $47 |
+| 16-page designed guide: The Wealth Split, Debt Freedom Ladder, Where Money Grows, Order of Operations, Money Myths, 30-Day Checklist | $47 |
+| 3 custom infographics (Wealth Split chart, Where Money Grows, Debt Freedom Ladder) | $29 |
+| Bonus: The 9-Phase AI Wealth Advisor master prompt (copy-paste ready) | $47 |
 | Fill-in profile template (never guess what to type) | $19 |
 | Bonus Phase 8: Tax & Asset Protection prompt | $27 |
 | Bonus Phase 9: Investment Allocation prompt | $27 |
-| "Re-run quarterly" tracking sheet (coming v1.1) | $19 |
-| **Total stack value** | **$139** |
+| **Total stack value** | **$196** |
 
 **Increase likelihood of achievement:** Every phase forces specific numeric inputs — no vague AI fluff, because the prompt structurally forbids generic answers.
 
@@ -39,13 +40,14 @@ You've tried asking AI for money advice. You got back "diversify your investment
 Every day you run your finances on gut feeling instead of a system is a day compounding works against you instead of for you. The people getting rich right now aren't smarter than you — they're running a process. You don't have the process. Yet.
 
 **Solve:**
-The Wealth Architect System is a 9-phase master prompt built the way an actual strategist would think — diagnosis, wealth map, accumulation stages by net worth milestone, 50 personalized money-making ideas, a 30/90/365-day execution plan, the mistakes about to cost you money, and the mindset shift that makes the rest of it stick. Paste your numbers in once. Get the whole plan back in one AI response.
+The Wealth Architect is a 16-page guide that walks you through the exact paycheck split, debt payoff order, and investment types that build real wealth — no jargon, no fluff, real numbers and real steps. Then it hands you an AI system: a 9-phase master prompt that turns any chatbot into a personal strategist that builds a plan around your specific numbers. Read the guide once. Run the AI system every quarter.
 
 **CTA:**
-Get instant access — $19. Delivered as a text file, works with ChatGPT, Claude, or Gemini. Use it in the next 10 minutes.
+Get instant access — $19. Delivered as a PDF, works on any device. The AI prompt works with ChatGPT, Claude, or Gemini. Start in the next 10 minutes.
 
 **Bullets for the page:**
-- Not generic advice — every output ties back to YOUR numbers
+- A real 16-page guide, not just a prompt — paycheck breakdown, debt payoff order, investment types, money myths, a 30-day checklist
+- Bonus AI system ties every output back to YOUR numbers
 - Works with any AI you already have access to (no new subscription)
 - Re-runnable every quarter as your numbers change
 - Built-in tax & asset protection phase most free versions skip
