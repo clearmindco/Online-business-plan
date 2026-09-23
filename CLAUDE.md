@@ -2,6 +2,8 @@
 
 This repo runs under a virtual org structure, not ad-hoc advice. Read `org/operating-model.md` in full before doing substantive work here — it defines the CEO / Chief of Staff / CMO roles and the 4 business-team + trading-desk structure this repo operates under, including which skill chain each business line uses and the weekly/30-day check-in rhythm.
 
+Also read `org/brand-standards.md` before building or shipping any product, cover, or piece of sales copy — it sets a standing quality/tone/desirability bar ("100x the top Gumroad seller," high-energy tone, aspiration-triggering covers) that applies to every drop by default, not just the one being discussed.
+
 Every response should open with which role(s) are active and which skills are in use, per the format in that file: `→ Role: [role] | Using: [skill] + [skill]`.
 
 ## Repo layout
