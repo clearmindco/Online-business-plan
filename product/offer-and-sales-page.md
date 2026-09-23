@@ -26,37 +26,37 @@
 - **Upsell (post-purchase, one-click): $47** — "Wealth Architect + Quarterly Refresh Tracker" (adds the tracking sheet once built)
 - **High-ticket upsell (DM/email only, not on the page): $197** — "Done-For-You Run" — buyer sends their numbers, you personally run the full system and deliver a written plan. This is where the real margin is, and it's pure service revenue with no product cost.
 
-**Guarantee:** "If you run the full prompt and don't get a plan more specific than anything you've gotten from a free finance influencer, refund in 7 days, no questions."
+**Refund policy: none — all sales final.** Founder's explicit call: this is an instant-download digital product, and the goal is buy-once-keep-it, not a try-before-you-commit guarantee. Confidence comes from the content quality and the free preview/sales copy, not a safety net. Note: Gumroad may still process a cardholder dispute/chargeback regardless of the seller's stated policy — "no refunds" reduces voluntary refund requests, it doesn't eliminate chargebacks. This does not replace the "not licensed financial/tax/legal advice" disclaimer, which must still appear on both the product and the sales page — that disclaimer is legal protection, unrelated to the refund policy.
 
 ## Sales page copy (PAS structure)
 
 **Headline:**
-Stop Asking ChatGPT Vague Finance Questions. Get an Actual Wealth Plan in 15 Minutes.
+You Don't Have a Money Problem. You Have a Decision Problem. Here's the System That Fixes It.
 
 **Problem:**
-You've tried asking AI for money advice. You got back "diversify your investments" and "create a budget." Useless. Not because AI can't do better — because you're not giving it the right prompt.
+You've tried asking AI for money advice. You got back "diversify your investments" and "create a budget." Thanks. Genuinely groundbreaking.
 
 **Agitate:**
-Every day you run your finances on gut feeling instead of a system is a day compounding works against you instead of for you. The people getting rich right now aren't smarter than you — they're running a process. You don't have the process. Yet.
+Every paycheck that comes in without a system behind it is a decision being made for you, by default. The people building real wealth right now aren't smarter than you — they're running a process. You don't have the process. Yet.
 
 **Solve:**
-The Wealth Architect is a 16-page guide that walks you through the exact paycheck split, debt payoff order, and investment types that build real wealth — no jargon, no fluff, real numbers and real steps. Then it hands you an AI system: a 9-phase master prompt that turns any chatbot into a personal strategist that builds a plan around your specific numbers. Read the guide once. Run the AI system every quarter.
+The Wealth Architect is a 14-page guide, written to actually get you fired up instead of putting you to sleep — the exact paycheck split, the debt payoff order, and the real places money grows, no jargon, no fluff. Then it hands you an AI system: a 9-phase master prompt that turns any chatbot into a personal strategist that builds a plan around your specific numbers. Read the guide once. Run the AI system every quarter, forever.
 
 **CTA:**
-Get instant access — $19. Delivered as a PDF, works on any device. The AI prompt works with ChatGPT, Claude, or Gemini. Start in the next 10 minutes.
+Get instant access — $19. Delivered as a PDF, works on any device. The AI prompt works with ChatGPT, Claude, or Gemini. Start tonight.
 
 **Bullets for the page:**
-- A real 16-page guide, not just a prompt — paycheck breakdown, debt payoff order, investment types, money myths, a 30-day checklist
+- A real 14-page guide, not just a prompt — paycheck breakdown, debt payoff order, where money grows, money myths, a 30-day checklist
+- Written with energy — this isn't a finance textbook, it's meant to get you moving
 - Bonus AI system ties every output back to YOUR numbers
 - Works with any AI you already have access to (no new subscription)
 - Re-runnable every quarter as your numbers change
-- Built-in tax & asset protection phase most free versions skip
-- 7-day money-back guarantee
+- Instant download, yours to keep
 
 ## Legal flag (read before you publish)
 
 You have an LLC/EIN already — good, sell this through the LLC, not personally.
 Before this goes live:
 - Add a **disclaimer** on the sales page itself (not just inside the product): "Educational tool only. Not financial, tax, or legal advice." — already in the product doc, but put it on the *page* too, since that's the customer-facing surface with liability exposure.
-- Digital product refund policy: state the 7-day guarantee in writing at checkout, not just in this doc.
+- State "All sales final — instant digital download" clearly at checkout, so the no-refund policy is disclosed upfront, not discovered after a complaint.
 - If you take this past a handful of sales, run it past `legal-advisor` for a proper ToS + privacy policy before scaling paid traffic to it.
