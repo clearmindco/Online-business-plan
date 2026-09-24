@@ -22,6 +22,17 @@ A cover is not done when it "looks clean." It's done when it makes someone feel 
 
 Every product page and every guide should read like the buyer got access to something insiders have, not a generic PDF anyone could produce. This shows up in: naming ("The [X] Architect System," not "[X] Guide"), scarcity/insider framing in copy where honest to do, and content depth that free versions circulating online don't match.
 
+## Logos & marks — the standard, not the vibe
+
+Researched against real top-rated Fiverr logo sellers before writing this rule (see `product/logo-design-research.md`): **glow, neon, particle, chrome, and gradient effects are an amateur/AI tell, not a premium signal.** They fail every real test a professional mark has to pass. A logo isn't done until it passes all of these:
+- **Flat, 1-2 solid colors, no gradient/glow/bevel/drop-shadow** — ever, on the primary mark
+- **Silhouette test:** still reads clearly as pure black on white, and pure white on black
+- **Scalability test:** still recognizable shrunk to a 16px favicon
+- **Single-color test:** every line is a clean closed stroke that would survive embroidery or one-color screen printing
+- **Full set, not just one file:** primary lockup, icon-only mark, full-color, all-black, all-white/reverse, single-color version
+
+A "hero shot" with lighting/glow/3D treatment can exist as a secondary marketing image (social posts, a website banner) — it is never the primary logo file, and the flat vector master must exist first.
+
 ## Applies going forward without being re-asked
 
 Any new product drop, cover, or piece of sales copy in this repo should be built against this standard by default. If a draft doesn't clearly clear the bar, redo it before showing it, rather than shipping something merely adequate and waiting for feedback to fix it.
