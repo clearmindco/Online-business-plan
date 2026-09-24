@@ -10,6 +10,14 @@ Built per `org/operating-model.md`'s Content/Creator chain (`personal-brand` →
 4. **Offer/CTA** — direct plug to the guide, link-in-bio. Kept to roughly 1-in-5 posts so the page reads as value-first, not a constant pitch (an 80/20 ratio, not a storefront).
 5. **AI Prompt Playbook** (new, PROTON's idea) — numbered-carousel posts teaching real, usable AI prompts for starting/growing a business, in our own navy/gold identity, never copying another account's face or branding. Safer content than stock-picking prompts (a real prompt-of-the-day account is doing that) — a prompt is not a factual claim, so there's no accuracy risk, and it ties directly to the actual skill chain this business runs on (`customer-research`, `offer-creation`, `content-strategy`, `competitor-profiling`, `launch-strategy` — see `org/operating-model.md`).
 
+## Growth rules — PROTON's standing corrections, apply to everything below
+
+1. **5 hashtags max, not 20-30.** More hashtags reads as spam to the algorithm now, not more reach. Pick the 5 most relevant every time.
+2. **Short captions with real keywords, not long paragraphs.** Say it in 2-3 lines. Every caption above already follows this, keep it that way.
+3. **Optimize for shares, not saves.** A saved post only serves the one person who saved it. A shared post reaches someone new. Where it fits naturally, close with something worth sending to a friend, not just something worth bookmarking.
+4. **Every post needs a real CTA, backed by messaging and presentation, not just a hook.** Views without a next step don't build anything. This is already how the Master Post Prompt below is structured (hook, value, close) — keep enforcing the close, don't let it drift into just a hook with no destination.
+5. **Reorder the grid once there's enough content to reorder.** Instagram profiles don't have to display in chronological order — the grid can be arranged so the strongest posts show first to a new visitor. Not relevant yet with 1-2 posts live, becomes a real task once there are 9+.
+
 ## Cadence
 
 Account is brand new (1 post live) — front-load consistency to build initial signal. **5 posts/week to start** (Mon-Fri), mixing carousels and single-image posts. This is the Slight Edge rule in practice: the daily discipline of posting is what compounds, not any single post.
