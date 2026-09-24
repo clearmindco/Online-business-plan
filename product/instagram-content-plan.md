@@ -69,6 +69,37 @@ Bio is live: "Financial freedom isn't luck. It's discipline, repeated daily. Lin
 
 **Closing slide (CTA):** "This is the same system running behind this page. Full framework: The Wealth Architect System, link in bio."
 
+## Master Prompt for ChatGPT — building this carousel
+
+Paste this into ChatGPT, then attach the reference images (the account whose layout you like, plus `product/assets/logo/wealth-architect-hq-badge-final.png`) right after:
+
+> I'm building an Instagram carousel for my brand @thewealtharchitect, a finance and wealth-mindset brand that is completely faceless, no human photos anywhere. I'm attaching reference images of a layout and typography style I want you to match structurally: bold display type, one or two keywords per line highlighted in a bright accent color, high contrast background, a numbered slide format, and a "swipe for more" cue. Do not reuse their colors, their logo, or the presenter photo. This is a different brand and needs its own identity.
+>
+> Rebuild this in my brand system instead:
+> - Background: solid deep navy, hex #0b1220, not black.
+> - Accent and highlight color: metallic gold, hex #d4af7a, not orange or yellow.
+> - Headline font: bold geometric sans-serif, heavy weight, all caps on emphasis words.
+> - No human face or photo anywhere. In place of any presenter photo, use my attached gold compass-and-arrow badge logo, sized small and clean in a corner, never stretched or distorted.
+> - Every slide carries exactly one message. No extra clutter or decoration.
+>
+> Build a 7-slide Instagram carousel, 1080x1350px each, using this exact text on each slide, do not rewrite or add to it:
+>
+> SLIDE 1 (cover): "5 AI PROMPTS THAT CAN ACTUALLY START YOUR BUSINESS TODAY" with small subtext "Swipe for the exact prompts."
+>
+> SLIDE 2: Header "1. MARKET RESEARCH." Body: "Act as a market researcher. I'm starting a [type of business] targeting [audience]. Identify my top 3 competitors, what they do well, where they fall short, and one gap I could fill that they're not addressing."
+>
+> SLIDE 3: Header "2. OFFER CREATION." Body: "Act as a pricing and offer strategist. Here's what I'm selling: [describe it]. Build me a value stack, the core offer plus bonuses, and suggest 3 price points with the reasoning behind each."
+>
+> SLIDE 4: Header "3. CONTENT PLAN." Body: "Act as a content strategist. My business is [describe]. My audience is [describe]. Give me 4 content pillars and 5 post ideas for each that would actually get engagement, not generic advice."
+>
+> SLIDE 5: Header "4. POSITIONING." Body: "Act as a brand strategist. Compare my business [describe] against these competitors [list them]. Tell me exactly how to position myself so I don't sound like a copy of them."
+>
+> SLIDE 6: Header "5. LAUNCH PLAN." Body: "Act as a launch strategist. I'm about to launch [product]. Give me a day-by-day 30-day plan from pre-launch to first sale, including what to post, when, and the goal of each week."
+>
+> SLIDE 7 (closing): "This is the same system running behind this page." and "The Wealth Architect System, link in bio." Include the badge logo small at the bottom.
+>
+> Keep one consistent template across all 7 slides so the carousel reads as one cohesive design, not 7 separate ones.
+
 ## The Master Post Prompt — reusable formula for every future post
 
 Same idea as the Master Prompt in `org/brand-standards.md` that finally got the logo right: stop re-guessing per post, use one formula that already works, built from the 5 posts above.
