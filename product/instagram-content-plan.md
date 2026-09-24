@@ -100,6 +100,22 @@ Paste this into ChatGPT, then attach the reference images (the account whose lay
 >
 > Keep one consistent template across all 7 slides so the carousel reads as one cohesive design, not 7 separate ones.
 
+## Comment-to-DM carousel — a proven format, built honestly
+
+PROTON found a viral example of this format (curiosity-gap hook, numbered prompts, "keep swiping," then a comment-for-DM gate). The mechanic is real and worth using. The specific claims in that example ($17,444 in a week, 1.4M views) are not — we have zero real revenue right now, and per `org/mission.md` this business never asserts a number it can't prove. Same structure, honest hook instead: this page's own system is true and doesn't need an invented number to work.
+
+**Slide 1 (hook):** "I built this entire page using 5 Claude prompts." Subtext: "Here's exactly what I typed." "Swipe →"
+
+**Slide 2:** "PROMPT 01 — FINDING MY MARKET." Intro line: "Before writing a single post, I had Claude map out exactly who this is for." Prompt box: the Market Research prompt from the AI Prompt Playbook above. Closer: "Most people stop here. The real structure is next."
+
+**Slide 3:** "PROMPT 02 — BUILDING THE OFFER." Prompt box: the Offer Creation prompt above. Closer: "But an offer means nothing without a plan."
+
+**Slide 4:** "PROMPT 03 — THE CONTENT ENGINE." Prompt box: the Content Plan prompt above. Closer: "Then I automated the whole thing."
+
+**Slide 5 (closing, DM gate):** "PROMPT 04 — THE LAUNCH SEQUENCE." Prompt box: the Launch Plan prompt above. CTA box: "Comment 'ARCHITECT' and I'll DM you the exact 5-prompt system I used, free."
+
+**The part that isn't automatic:** the comment-to-DM gate only works if the DMs actually go out. Instagram's own Professional Dashboard has a built-in "Automated replies to comments" feature (Settings → Automations) that can auto-DM anyone who comments a keyword, no third-party tool needed. Set that up before posting this one, or the CTA is a promise nobody gets to collect on.
+
 ## Master Prompt for ChatGPT — business intro video
 
 The page's actual goal, for context on every future video prompt: grow an audience by teaching real wealth-building frameworks, position the brand as the insider system per `org/brand-standards.md`, and convert that trust into traffic toward the paid guide and future products. PROTON generates these through ChatGPT rather than spending Higgsfield credits directly.
