@@ -58,6 +58,26 @@ Runs the actual storefront listings: Gumroad, Etsy, and print-on-demand shirt st
 ### REEL (Content Studio — YouTube Shorts, TikTok, the whole short-form engine)
 Turns every drop into short-form video content once it's live, to drive traffic back to it.
 
+---
+
+## Niche Pods (multi-niche print-on-demand storefront)
+
+PROTON's expansion: a full multi-niche store, not one product line — mom-focused coffee mugs, a teacher-specific store, dog-breed-specific niches, the money-mindset apparel line, and more over time. The explicit rule PROTON set: **each niche gets its own dedicated SCOUT + PRISM research/design thread, run in complete isolation from every other niche.** No shared context between niches — that's what keeps designs sharp instead of generic, and keeps every character focused instead of confused.
+
+**How a niche pod works:**
+1. SCOUT runs a niche-specific research pass — what sells, what sayings/themes actually land with that niche's buyer, what's oversaturated — as its own isolated task, never mixed with another niche's research in the same run.
+2. PRISM designs off that niche's findings only.
+3. Output is filed under `product/pod-[niche-name]/` — its own folder, never merged into another niche's files.
+4. PEDDLER lists it once WARDEN clears it.
+
+**Niche pods active or being researched:**
+- **Money-Mindset Apparel** (`product/pod-tshirts-scout-report.md`) — first pod, research done, design phase (Essentials-tier bar).
+- **Mom Coffee Mugs** — sayings/themes that land with mothers specifically.
+- **Teacher Store** — a dedicated storefront section for teacher-specific products.
+- **Dog-Breed Niche** — breed-specific designs, one breed at a time treated as its own micro-niche.
+
+**THE MECHANIC's parallel job on this:** find which POD platform costs least per product type (mugs vs. shirts have different unit economics/providers) — this is a cost question, separate from SCOUT's content/trend research, and feeds every niche pod's margin math.
+
 ## Success metric per room (what makes each one accountable, not just busy)
 
 | Character | Accountable for |
