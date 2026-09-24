@@ -1,4 +1,6 @@
-# Wealth Architect — Launch Copy (drop your Gumroad link into [LINK] everywhere)
+# Wealth Architect — Launch Copy
+
+**Live link:** https://arresidential.gumroad.com/l/fogblj
 
 ## Social post (X/Twitter, Threads, Facebook)
 
@@ -14,7 +16,7 @@ personal plan around your numbers.
 
 $5.99. 14 pages. No fluff.
 
-[LINK]
+https://arresidential.gumroad.com/l/fogblj
 ```
 
 ## Short-form video hook + script (30-45 sec — TikTok/Reels/Shorts)
@@ -46,7 +48,7 @@ use. It's a short guide that breaks down exactly how to split your paycheck,
 pay off debt in the right order, and where to actually put money to grow it
 — plus an AI prompt that builds a plan around your specific numbers.
 
-$5.99, instant download: [LINK]
+$5.99, instant download: https://arresidential.gumroad.com/l/fogblj
 
 No pressure, just thought of you.
 ```
@@ -66,7 +68,7 @@ or buried in jargon. Put together a short guide covering:
   plainly
 - A bonus AI prompt that builds a personal plan from your own numbers
 
-$5.99, instant download, 14 pages: [LINK]
+$5.99, instant download, 14 pages: https://arresidential.gumroad.com/l/fogblj
 
 Happy to answer questions if anyone has them.
 ```
