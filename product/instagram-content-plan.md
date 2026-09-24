@@ -13,9 +13,9 @@ Built per `org/operating-model.md`'s Content/Creator chain (`personal-brand` →
 
 Account is brand new (1 post live) — front-load consistency to build initial signal. **5 posts/week to start** (Mon-Fri), mixing carousels and single-image posts. This is the Slight Edge rule in practice: the daily discipline of posting is what compounds, not any single post.
 
-## Open item before any CTA post goes up
+## Bio link — RESOLVED
 
-The bio link still points to the old `@brokensaintofficial` TikTok (flagged in `org/operating-model.md`). Fix that to the Gumroad link before Pillar 4 (Offer/CTA) posts start running — a CTA post driving to a dead/wrong link wastes the exact traffic it's meant to capture.
+Fixed to the live Gumroad link: `https://arresidential.gumroad.com/l/fogblj`. CTA posts (Pillar 4, and the "link in bio" lines in Posts 3 and 5 below) are unblocked. A Linktree-style page is queued in `org/agent-team.md`'s Backlog for once a second real destination (TikTok Shop, etc.) is live — not needed for a single link.
 
 ## Week 1 — ready to post
 
