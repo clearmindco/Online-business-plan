@@ -4,7 +4,7 @@ This repo runs under a virtual org structure, not ad-hoc advice. Read `org/opera
 
 Also read `org/brand-standards.md` before building or shipping any product, cover, or piece of sales copy — it sets a standing quality/tone/desirability bar ("100x the top Gumroad seller," high-energy tone, aspiration-triggering covers) that applies to every drop by default, not just the one being discussed.
 
-When the founder says "New drop: [topic]," run the pipeline in `org/agent-team.md` — Script Writer → Visual Designer → Assembler → QA/Brand Gate → Email/Launch Agent — reporting at each gate rather than silently producing a finished product.
+When the founder says "New drop: [topic]," run the pipeline in `org/agent-team.md` — Script Writer → Visual Designer → Assembler → QA/Brand Gate → Email/Launch Agent — reporting at each gate rather than silently producing a finished product. Read `org/mission.md` too — it's the actual reason this repo exists (Javier's financial freedom, then family, then giving back at scale), and the QA/Brand Gate's accuracy check exists specifically because of it: no autonomous publishing without a human check until the pipeline has proven itself.
 
 Every response should open with which role(s) are active and which skills are in use, per the format in that file: `→ Role: [role] | Using: [skill] + [skill]`.
 

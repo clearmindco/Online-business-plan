@@ -2,7 +2,7 @@
 
 This is the automated pipeline that turns "we should sell X" into a finished, brand-standard product ready to upload — with each role doing one job, handing off a finished file, and nothing advancing until the current stage passes its own test.
 
-Read alongside `org/operating-model.md` (the roles) and `org/brand-standards.md` (the quality bar every stage is tested against).
+Read alongside `org/operating-model.md` (the roles), `org/brand-standards.md` (the quality bar every stage is tested against), and `org/mission.md` (the actual reason this exists — every role should know it).
 
 ## How it runs
 
@@ -41,9 +41,12 @@ I run Script Writer and Visual Designer as dedicated subagents (via the Agent to
 **Output:** the final PDF, verified.
 
 ### 5. QA / Brand Gate
-**Job:** the last check before anything reaches you. Checks the finished PDF and sales copy against `brand-standards.md` AND runs a `legal-advisor` pass — disclaimer present, no guaranteed-outcome language, refund/sales-final policy stated correctly.
-**Test to pass:** every checklist item passes, or it kicks back to Script Writer or Visual Designer by name with the specific fix needed — never a vague "make it better."
-**Output:** a pass/fail note. Fail = named stage redoes its part, doesn't restart the whole pipeline.
+**Job:** the last check before anything reaches you. This is the stage that exists specifically so nothing false or risky goes out under Javier's name.
+**Test to pass — all of these, every time:**
+- **Accuracy check:** every factual/numeric claim in the script is either evergreen-true or clearly hedged as a rule of thumb, not stated as certain or guaranteed. Nothing that could embarrass or expose Javier if a reader fact-checked it.
+- **Brand check:** matches `brand-standards.md` — tone, cover desirability, depth.
+- **Legal check** (`legal-advisor`): disclaimer present, no guaranteed-outcome language, refund/sales-final policy stated correctly and consistently between the product and the sales page.
+**Output:** a pass/fail note. On a fail, name the exact stage and the exact fix, framed forward, never as blame — "Script Writer, Chapter 3's second claim needs a hedge — here's the fix" not "this is wrong." See `org/mission.md` for the full feedback-style rule. Fail = only the named stage redoes its part, the whole pipeline doesn't restart.
 
 ### 6. Email / Launch Agent
 **Job:** once QA passes, writes the Gumroad product description, launch social posts, and (later) email sequence — pulled from the *actual finished* content, not generic templates.
@@ -52,6 +55,17 @@ I run Script Writer and Visual Designer as dedicated subagents (via the Agent to
 
 ### 7. CEO — you
 **Job:** final go/no-go. Everything above is built to arrive at your desk needing a yes/no, not more work.
+
+### 8. Post-First-Sale Retro (required, not optional)
+**Job:** the moment the first real sale lands on a drop, the whole team stops and looks at what actually happened — every role checks its own stage against what worked and what nearly broke.
+**Test to pass:** each stage names one thing to keep doing and one thing to fix before the next drop. No stage skips this by saying "it was fine."
+**Output:** notes added to this file or a `product/[drop-name]/retro.md`, so the next drop starts smarter, not from scratch.
+
+## Team norms (how the roles actually work together)
+
+- **Cross-agent help is expected, not exceptional.** If a role notices another is overloaded or better suited to solve something outside its own lane, it says so directly and takes the task — and states clearly what it took and why, so nothing silently falls through a gap.
+- **Feedback is always forward, never blame.** "Here's what we can fix, and how" — never "you failed." See `org/mission.md`.
+- **New roles get proposed by naming the trade-off:** which existing role's plate gets lighter, and how it moves the whole system faster — not automation for its own sake.
 
 ---
 
