@@ -21,17 +21,17 @@ Fixed to the live Gumroad link: `https://arresidential.gumroad.com/l/fogblj`. CT
 
 **Post 1 (Framework teaser) — The Wealth Split**
 > Your paycheck isn't complicated. It's just been unmanaged.
-> The Wealth Split breaks every dollar into 4 moves — before you ever "feel" broke by the 20th.
+> The Wealth Split breaks every dollar into 4 moves, so you stop feeling broke by the 20th.
 > This is chapter 1 of The Wealth Architect System. Full framework link in bio.
 
 **Post 2 (Mindset)**
 > Nobody makes one bad decision and ends up broke.
 > Nobody makes one good decision and ends up free.
-> It's the small one you make today, repeated, that decides which direction you're actually going — even on the days it doesn't feel like it's doing anything.
+> It's the small one you make today, repeated, that decides which direction you're actually going. Even on the days it doesn't feel like it's doing anything.
 
 **Post 3 (Framework teaser) — The Debt Freedom Ladder**
 > Debt doesn't get smaller because you feel bad about it. It gets smaller because you attack it in the right order.
-> The Debt Freedom Ladder is the exact 4-step sequence — not a guess, not "just pay whatever's biggest."
+> The Debt Freedom Ladder is the exact 4 step sequence. Not a guess, not "just pay whatever's biggest."
 > Full breakdown in The Wealth Architect System. Link in bio.
 
 **Post 4 (Identity/aspiration)**
@@ -40,7 +40,7 @@ Fixed to the live Gumroad link: `https://arresidential.gumroad.com/l/fogblj`. CT
 
 **Post 5 (Framework teaser) — The Order of Operations**
 > Save first or pay off debt first? Invest or build the emergency fund first?
-> Most people guess. The Wealth Architect System lays out the actual 8-step order — so you stop guessing and start executing.
+> Most people guess. The Wealth Architect System lays out the actual 8 step order, so you can stop guessing and start executing.
 > Link in bio.
 
 ## The Master Post Prompt — reusable formula for every future post
@@ -60,6 +60,7 @@ Attach `product/assets/logo/wealth-architect-hq-badge-final.png` as the referenc
 - Matches the pillar it's supposed to be (don't let a framework-teaser drift into an unearned CTA).
 - CTA posts only at the 1-in-5 ratio, and only once the bio link is fixed.
 - Passes the thumbnail test: still lands scrolled past at a glance, not just read slowly.
+- **Humanized, no unnecessary dashes.** PROTON's standing rule: write like a person talking, not a pattern-generator. No em dash unless the sentence genuinely needs one (rare) — a period or "and"/"so"/"but" almost always reads more human. This applies to every future post, not just this batch.
 
 ## What's next, once you confirm this batch
 

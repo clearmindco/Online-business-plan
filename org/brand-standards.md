@@ -10,6 +10,8 @@ This is a standing rule, not a one-time note. Every digital product this busines
 
 High-energy, direct-address, momentum-driven. The reader should feel like something is happening to them, not like they're reading a manual. No dry textbook voice, no hedging paragraph after paragraph, no "studies show" academic tone. Short punchy sentences mixed with longer ones for rhythm. Second person ("you"), always. This isn't optional per-product — it's the house voice.
 
+**Humanized, no unnecessary dashes.** PROTON's standing rule, applies everywhere this business writes copy (guides, Instagram, Gumroad listings, everything): write like a person talking, not a pattern-generator. Skip the em dash unless the sentence genuinely can't work without one — a period, "and," "so," or "but" almost always reads more human. This is a real AI-writing tell, and it gets caught before anything ships.
+
 ## Covers — the emotional bar, not just the design bar
 
 A cover is not done when it "looks clean." It's done when it makes someone feel **"I need this. This speaks to me. I want to be that person."** That's an identity/aspiration trigger, not a design checklist. Concretely:
