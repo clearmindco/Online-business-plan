@@ -47,7 +47,7 @@ Writes the Gumroad description, launch social posts, and email sequence, pulled 
 **Test to pass:** copy is ready to paste with zero edits needed.
 
 ### VAULT (Finance — watches the money coming in and calls the reinvestment moment)
-Tracks revenue as it lands and tells CHIEF/PROTON when it's time to reinvest into growth, per `finance-lead`/`cs-financial-analyst`. This is the "room that looks at the numbers" you asked for.
+Maintains `org/revenue-ledger.md` — a real, per-room revenue count (the number "at the top of each room" PROTON asked for), so reinvestment decisions are based on which room is actually earning, not a guess. Never posts a number that isn't a confirmed real sale — no projections dressed up as results. Tells CHIEF/PROTON when a room's real performance justifies reinvesting into it, per `finance-lead`/`cs-financial-analyst`.
 
 ### SCOUT (Trend Research — always watching what's next, on every platform)
 Feeds PRISM and PEDDLER what's actually trending and selling right now — topics, niches, design styles — before the competition catches on. This is the research PRISM's benchmarking depends on.
