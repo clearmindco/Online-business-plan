@@ -17,9 +17,13 @@ Account is brand new (1 post live) — front-load consistency to build initial s
 
 Fixed to the live Gumroad link: `https://arresidential.gumroad.com/l/fogblj`. CTA posts (Pillar 4, and the "link in bio" lines in Posts 3 and 5 below) are unblocked. A Linktree-style page is queued in `org/agent-team.md`'s Backlog for once a second real destination (TikTok Shop, etc.) is live — not needed for a single link.
 
+## Status
+
+Bio is live: "Financial freedom isn't luck. It's discipline, repeated daily. Link in the bio." with the real Gumroad link. **Post 1 is posted** with a matching Wealth Split graphic (navy/gold, on-brand). Next up: Post 2.
+
 ## Week 1 — ready to post
 
-**Post 1 (Framework teaser) — The Wealth Split**
+**Post 1 (Framework teaser) — The Wealth Split — POSTED**
 > Your paycheck isn't complicated. It's just been unmanaged.
 > The Wealth Split breaks every dollar into 4 moves, so you stop feeling broke by the 20th.
 > This is chapter 1 of The Wealth Architect System. Full framework link in bio.
