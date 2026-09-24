@@ -57,7 +57,9 @@ Maintains `org/revenue-ledger.md` — a real, per-room revenue count (the number
 Feeds PRISM and PEDDLER what's actually trending and selling right now — topics, niches, design styles — before the competition catches on. This is the research PRISM's benchmarking depends on.
 
 ### PEDDLER (Marketplace + Print-on-Demand — lists and sells everywhere, including physical products)
-Runs the actual storefront listings: Gumroad, Etsy, and print-on-demand shirt stores. This is the character behind the new T-shirt/POD operation — see "New initiative" below.
+Runs the actual storefront listings: Gumroad, Etsy, print-on-demand shirt stores, and now TikTok Shop. This is the character behind the new T-shirt/POD operation — see "New initiative" below.
+
+**New channel: TikTok Shop (`Thewealtharchitecthq` seller account).** Status: **application in progress, blocked on proof-of-address verification** (bill's name/address must match the seller application exactly — resubmission in progress). SCOUT is doing Christmas-season trend research now, ahead of approval, so no time is lost once the account clears. **PROTON's call still needed once approved:** whether TikTok Shop sells our own branded products (fastest — the existing "WEALTH ARCHITECT" Money-Mindset tee already ships via Printify) or unrelated trending items (skincare/gadgets/etc. — a separate dropshipping supply chain we don't have set up, slower to launch).
 
 ### REEL (Content Studio — YouTube Shorts, TikTok, the whole short-form engine)
 Turns every drop into short-form video content once it's live, to drive traffic back to it.
