@@ -36,6 +36,8 @@ Chain: `brainstorming` → `cs-product-strategist` → `cs-senior-engineer` → 
 AOV, repeat purchase, CAC:LTV.
 Chain: `customer-research` → `offer-creation` → `copywriting` → `ad-creative` → `email-sequence` → `analytics-tracking` → `sop-builder`
 
+**Current initiative:** Print-on-demand T-shirts. Status: research/design phase (SCOUT researching top-selling niches, PRISM designing to beat the current bestseller in each niche) — zero spend. Per the decision rule in `org/agent-team.md`, moving to real spend (samples, ads, a live storefront) requires explicit founder approval — that hasn't happened yet.
+
 ### 3. Freelance / Agency
 Speed to revenue, productize fast, remove yourself from delivery.
 Chain: `lead-research-assistant` → `cold-email` → `sales-enablement` → `legal-advisor` → `offer-creation` → `sop-builder` → `passive-income-systems`
