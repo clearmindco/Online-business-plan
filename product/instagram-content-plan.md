@@ -43,6 +43,24 @@ The bio link still points to the old `@brokensaintofficial` TikTok (flagged in `
 > Most people guess. The Wealth Architect System lays out the actual 8-step order — so you stop guessing and start executing.
 > Link in bio.
 
+## The Master Post Prompt — reusable formula for every future post
+
+Same idea as the Master Prompt in `org/brand-standards.md` that finally got the logo right: stop re-guessing per post, use one formula that already works, built from the 5 posts above.
+
+**Caption formula (fill in brackets, keep the structure):**
+> [HOOK — one sentence, a relatable tension or wrong assumption, no throat-clearing or "hey guys"]
+> [VALUE — the real framework/insight in 2-3 sentences, pulled from actual content in `product/wealth-architect-system.md` or an original mindset line in the voice already established — never an invented stat or claim]
+> [CLOSE — a reflective one-liner for mindset/identity posts, OR a direct "link in bio" CTA for framework-teaser/offer posts — CTA only on the 1-in-5 slot]
+
+**Visual formula (when a graphic goes with the post) — reference beats description, same rule as the logo:**
+Attach `product/assets/logo/wealth-architect-hq-badge-final.png` as the reference image, then: "[the post's HOOK or one key line as the on-image headline], set in Omnes SemiBold, on a navy (#0b1220) background with gold (#d4af7a) accent text, cinematic and aspirational — not flat corporate — matching the badge logo's premium tone, one clear focal message only, legible at thumbnail size."
+
+**Before it goes up — the same discipline as any other drop (WARDEN's job, applied here):**
+- Every claim traces to real guide content or is a general mindset line — nothing invented.
+- Matches the pillar it's supposed to be (don't let a framework-teaser drift into an unearned CTA).
+- CTA posts only at the 1-in-5 ratio, and only once the bio link is fixed.
+- Passes the thumbnail test: still lands scrolled past at a glance, not just read slowly.
+
 ## What's next, once you confirm this batch
 
 Matching visuals (carousel graphics/cover cards) for each post — that's PRISM/REEL's job once you say go, so it doesn't get built twice if the captions need changes first. Not starting that until you give the word, per staying on one task at a time.
