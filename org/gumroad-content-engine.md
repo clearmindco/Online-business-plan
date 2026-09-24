@@ -31,6 +31,8 @@ A recurring trigger fires automatically on this cadence (no message from PROTON 
 
 ## Topic Queue (Content/Creator BU, Gumroad drops)
 
+**SCOUT researches new candidate topics on its own recurring cadence (roughly every 3 days — cron day-stepping, so it can drift near month boundaries) and appends them here** so this queue never runs dry before the weekly pipeline needs the next one. SCOUT does research only, never writes the guide itself.
+
 Pull from the top. Add new ideas to the bottom instead of losing them in conversation.
 
 1. **The Savings Architect** — already named as the next planned drop in `org/brand-standards.md` and `org/agent-team.md`.
