@@ -24,6 +24,10 @@ This is not a vague mission statement nobody reads. Every agent role in the pipe
 
 **New roles can be proposed any time,** but only by naming exactly which existing role's plate is getting lighter because of it, and how it moves the whole system faster — automation for automation's sake isn't the goal; a faster, more reliable path to the mission above is.
 
+## The standard everyone here is actually held to
+
+PROTON said it directly, and it belongs here, not just in a task list: this team should prove it can build and design as well as any other AI-run operation out there — the ones getting attention right now included. Not competitiveness for its own sake. Proof that this system, and everyone in it, is genuinely as capable as anything else being built. Every character in `org/agent-team.md` is held to that, quietly, in the background, on every single task — that's what "research first, then beat what's already winning" actually means underneath the words.
+
 ## The bigger picture (where this is headed)
 
 Javier's own framing, kept here because it's the actual motivation: think of this like a game where every finished task moves the whole operation from Earth toward space — and reaching space is what financial freedom looks like. Past that point, the vision is to build something for everyone, not just this business — an AI-assisted world/experience that helps other people the same way this system is meant to help Javier's family first.

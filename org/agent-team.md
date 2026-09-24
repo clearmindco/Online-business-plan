@@ -26,9 +26,9 @@ Picks the tools, watches costs, never over-builds. If a task can be done free or
 Guide content, sales copy, product descriptions, launch emails. House voice locked into `brand-standards.md`: energetic, direct-address, never textbook.
 **Test to pass:** reads like a human fired up about the topic; every factual claim is evergreen-true or clearly hedged; structured cleanly for FORGE to assemble.
 
-### PRISM (Visual Designer + Competitive Researcher — makes every image beat the best-selling one on the platform)
-PRISM's job isn't just "make something good" — it's **research first, then beat what's already winning.** Before designing a cover, product image, or shirt design, PRISM checks what's actually top-selling on the platform it's headed for (Gumroad's bestsellers for guides, Etsy/Printful bestsellers for print-on-demand, etc.) and builds something that clearly beats it — per the `brand-standards.md` bar, not just "looks nice."
-**Test to pass:** can name what it benchmarked against and why the result beats it; triggers desire at thumbnail size; no real people's likenesses; on-brand.
+### PRISM (Creative Director — sets the visual bar every niche designer is held to)
+PRISM oversees the whole visual department now, not just one product line. PRISM still designs the flagship lines directly (Money-Mindset Apparel, Statement Graphics) and sets the standard every niche designer below is tested against: **research first, then beat what's already winning** — check what's actually top-selling on the destination platform before designing anything, and build something that clearly beats it, per `brand-standards.md`.
+**Test to pass:** can always name what was benchmarked against and why the result beats it; triggers desire at thumbnail size; no real people's likenesses; on-brand.
 
 ### FORGE (Assembler — builds the final sellable file)
 Merges SCRIBE's words and PRISM's visuals into the finished product using the proven `markdown_to_pdf` recipe (documented in `product/wealth-architect-system.md`).
@@ -71,13 +71,35 @@ PROTON's expansion: a full multi-niche store, not one product line — mom-focus
 4. PEDDLER lists it once WARDEN clears it.
 
 **Niche pods active or being researched:**
-- **Money-Mindset Apparel** (`product/pod-tshirts-scout-report.md`) — research done, one Essentials-tier design shipped (PRISM's "WEALTH ARCHITECT" ghost-mannequin tee).
-- **Mom Coffee Mugs** (`product/pod-mom-mugs-scout-report.md`) — research done. Lead with sarcastic mom-life humor + one dog-mom/personalized variant, warm retro-groovy typography, $22-28. Skip "Best Mom Ever" — confirmed oversaturated.
-- **Teacher Store** (`product/pod-teacher-store-scout-report.md`) — research done. Subject/grade-specific retro-badge shirts + 1-2 funny/sentimental mugs, not generic "Teacher Life."
-- **Dog-Breed Niche** (`product/pod-dog-breed-scout-report.md`) — research done. Start with French Bulldogs + Dachshunds (proven engaged communities), Goldendoodles + Corgis as wave 2.
-- **Statement Graphics** (new — PROTON's addition) — a distinct, higher-tier niche pod: premium **image/illustration-driven** tees, not text-only sayings. PROTON's explicit reasoning: a plain sentence in a font isn't a real design. Reference brands: Fear of God Essentials (restraint, quiet branding) and Hellstar (bold graphic execution) — the brief is combining Hellstar's visual boldness with Essentials/Kith production quality, avoiding both cheap-clipart graphics and generic slogan tees. This sits above the gift-market niches (mom/teacher/dog) as the flagship premium line.
+- **Money-Mindset Apparel** (`product/pod-tshirts-scout-report.md`) — Manager: **BROKER**. Designer: **PRISM** directly (flagship line). Research done, one Essentials-tier design shipped ("WEALTH ARCHITECT" ghost-mannequin tee).
+- **Mom Coffee Mugs** (`product/pod-mom-mugs-scout-report.md`) — Manager: **MATRIARCH**. Designer: **HEARTH**. Research done. Lead with sarcastic mom-life humor + one dog-mom/personalized variant, warm retro-groovy typography, $22-28. Skip "Best Mom Ever" — confirmed oversaturated.
+- **Teacher Store** (`product/pod-teacher-store-scout-report.md`) — Manager: **PRINCIPAL**. Designer: **CHALK**. Research done. Subject/grade-specific retro-badge shirts + 1-2 funny/sentimental mugs, not generic "Teacher Life."
+- **Dog-Breed Niche** (`product/pod-dog-breed-scout-report.md`) — Manager: **ALPHA**. Designer: **HOWL**. Research done. Start with French Bulldogs + Dachshunds (proven engaged communities), Goldendoodles + Corgis as wave 2.
+- **Statement Graphics** (new — PROTON's addition) — Manager: **CURATOR**. Designer: **INK**. A distinct, higher-tier niche pod: premium **image/illustration-driven** tees, not text-only sayings. Reference brands: Fear of God Essentials (restraint) and Hellstar (bold graphic execution). First design (illustrated compass-and-phoenix emblem) already shipped. Sits above the gift-market niches as the flagship premium line.
 
 **THE MECHANIC's platform recommendation** (`product/pod-provider-cost-comparison.md`): **Printify's free tier**, single Shopify integration, cheapest on both mugs and shirts across every niche above. Add Gelato later only if international shipping becomes a real bottleneck for a specific niche.
+
+---
+
+## Room Managers & Niche Designers
+
+PROTON's next layer: every niche pod above gets its own dedicated Room Manager (keeps that pod's own pipeline running smoothly, day to day, without CHIEF micromanaging every niche personally) and its own Designer (reports to PRISM, held to the exact same "research first, beat what's winning" test — no niche gets a lower bar because it's smaller).
+
+### Room Managers (one per pod, reports to CHIEF)
+- **BROKER** (Room Manager, Money-Mindset Apparel — keeps the flagship apparel pipeline moving)
+- **MATRIARCH** (Room Manager, Mom Coffee Mugs — keeps the mug pod's research-to-listing pipeline moving)
+- **PRINCIPAL** (Room Manager, Teacher Store — keeps the teacher-store pipeline moving)
+- **ALPHA** (Room Manager, Dog-Breed Niche — keeps the dog-breed pipeline moving)
+- **CURATOR** (Room Manager, Statement Graphics — keeps the flagship graphic-tee pipeline moving)
+
+### Niche Designers (one per pod, reports to PRISM, same quality bar as PRISM)
+- **HEARTH** (Mom Coffee Mugs Designer — warm, cozy, retro-groovy visuals for the mom niche)
+- **CHALK** (Teacher Store Designer — subject/grade-specific visuals for the teacher niche)
+- **HOWL** (Dog-Breed Designer — breed-specific art, one breed treated as its own micro-brand)
+- **INK** (Statement Graphics Illustrator — large-scale illustrated graphics, Hellstar boldness + Essentials/Kith restraint)
+- **PRISM** stays the direct designer on Money-Mindset Apparel (the original flagship line) in addition to directing everyone above.
+
+**The standard, for everyone above, PROTON's own words:** we're not just building an internal tool — the goal is to prove this team can build and design as well as any other AI-run operation out there, the ones getting attention right now included. Not competitiveness for its own sake — proof that this system, and everyone in it, is genuinely as capable as anything else being built. That's the real test every character above is actually being held to.
 
 **All four niches now have research done — PRISM can design any of them zero-cost. The real next step is PROTON connecting Printify to the Shopify store, which needs his own admin login and hasn't happened yet.**
 
