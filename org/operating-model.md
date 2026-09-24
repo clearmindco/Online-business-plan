@@ -36,7 +36,7 @@ Chain: `brainstorming` → `cs-product-strategist` → `cs-senior-engineer` → 
 AOV, repeat purchase, CAC:LTV.
 Chain: `customer-research` → `offer-creation` → `copywriting` → `ad-creative` → `email-sequence` → `analytics-tracking` → `sop-builder`
 
-**Current initiative:** Print-on-demand T-shirts. Status: research/design phase (SCOUT researching top-selling niches, PRISM designing to beat the current bestseller in each niche) — zero spend. Per the decision rule in `org/agent-team.md`, moving to real spend (samples, ads, a live storefront) requires explicit founder approval — that hasn't happened yet.
+**Current initiative:** Print-on-demand T-shirts. SCOUT's research is done — see `product/pod-tshirts-scout-report.md`. Recommendation: minimalist, bold-typography "money mindset" tees using actual Wealth Architect brand lines, since real demand exists and current sellers in that niche are small/unbranded (our existing brand authority is the edge). PRISM is now designing off that recommendation — zero spend, no approval needed. **Real spend (samples, storefront setup, ads) still requires PROTON's explicit go-ahead before it happens.**
 
 ### 3. Freelance / Agency
 Speed to revenue, productize fast, remove yourself from delivery.
