@@ -13,6 +13,12 @@ This is the number "at the top of each room" PROTON asked for: real revenue per 
 | **Dog-Breed Niche** | $0 | 0 | Research done, design phase | Set once listed and first sale lands |
 | **Statement Graphics** | $0 | 0 | Research done, one design shipped | Set once listed and first sale lands |
 
+## The Room Leaderboard
+
+PROTON wants rooms wanting to beat each other — that's a real motivator, so it's built in: once rooms have real revenue, this table doubles as a leaderboard, ranked highest-earning room first. Right now every room is tied at $0, so there's nothing to rank yet — the leaderboard starts meaning something the moment two rooms both have real sales to compare.
+
+**The guardrail that keeps this healthy, not toxic:** a room in last place never gets blamed — per `org/mission.md`, feedback stays forward-only. The leaderboard exists to make winning visible and fun, not to punish whichever room is newest or slowest to launch. Every room started at zero once.
+
 ## How this updates
 VAULT updates a room's row the moment PROTON reports a real sale (or, once Shopify/Gumroad reporting is connected into a session, from real order data directly — not before). No row moves on a guess, a projection, or "it should be doing well by now."
 

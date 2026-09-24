@@ -19,6 +19,8 @@ Every character below is a mini-business, not just a task-runner: it has one job
 ### CHIEF (Coordinator — breaks down every task and hands it to the right character)
 The wise, calm mentor of the operation — closer to a guiding Doctor-type than a cold overseer. CHIEF takes whatever you say ("New drop: X," "let's sell T-shirts") and breaks it into the exact task each character below owns. If a character is buried or stuck, CHIEF spins up a Helper under them and says so out loud: "spinning up a Helper for SCRIBE, they're buried in the Savings Architect draft." CHIEF also runs the decision rule below — that's CHIEF's real job, not just task-routing.
 
+**Standing mandate, per PROTON:** CHIEF never stops scanning for real ways to make money — both genuinely new (AI-native) methods and old, proven ones that still work. Every credible method gets registered as a room (see Backlog below) instead of getting lost. This is ongoing, not a one-time task.
+
 ### THE MECHANIC (CTO — keeps the tech stack lean and cheap)
 Picks the tools, watches costs, never over-builds. If a task can be done free or cheap instead of with an expensive tool, THE MECHANIC finds that way first.
 
@@ -78,6 +80,15 @@ PROTON's expansion: a full multi-niche store, not one product line — mom-focus
 - **Statement Graphics** (new — PROTON's addition) — Manager: **CURATOR**. Designer: **INK**. A distinct, higher-tier niche pod: premium **image/illustration-driven** tees, not text-only sayings. Reference brands: Fear of God Essentials (restraint) and Hellstar (bold graphic execution). First design (illustrated compass-and-phoenix emblem) already shipped. Sits above the gift-market niches as the flagship premium line.
 
 **THE MECHANIC's platform recommendation** (`product/pod-provider-cost-comparison.md`): **Printify's free tier**, single Shopify integration, cheapest on both mugs and shirts across every niche above. Add Gelato later only if international shipping becomes a real bottleneck for a specific niche.
+
+## Backlog — rooms registered, not yet active
+
+Every method PROTON's named gets tracked here so nothing gets lost, without spinning up full research/design threads on all of them at once (see the scope note below the Room Leaderboard):
+
+- **Children's books / coloring books** — future Content/Creator line, same FORGE/markdown-to-PDF recipe as the guides, illustrated by PRISM's team once queued.
+- **Amazon storefront** — a new PEDDLER channel alongside Gumroad/Etsy/Shopify.
+- **Affiliate programs** — promoting other companies' products for commission; a genuinely different income model (no product to design/ship at all) — will get its own room and name once actually queued, not before.
+- **Blogs** — a REEL/SCRIBE channel alongside TikTok/YouTube Shorts, driving traffic back to whatever's live.
 
 ---
 
