@@ -91,6 +91,7 @@ Every method PROTON's named gets tracked here so nothing gets lost, without spin
 - **Amazon storefront** — a new PEDDLER channel alongside Gumroad/Etsy/Shopify.
 - **Affiliate programs** — promoting other companies' products for commission; a genuinely different income model (no product to design/ship at all) — will get its own room and name once actually queued, not before.
 - **Blogs** — a REEL/SCRIBE channel alongside TikTok/YouTube Shorts, driving traffic back to whatever's live.
+- **Gumroad direct-publish via OAuth API** — Gumroad has a real public API (`edit_products` scope) that could let Claude publish products directly instead of PROTON doing the final upload click. THE MECHANIC owns evaluating this once `org/gumroad-content-engine.md`'s weekly cadence has proven itself across a few real drops — never via raw Gumroad login credentials, only a proper OAuth app registration.
 
 ---
 
