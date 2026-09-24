@@ -46,7 +46,9 @@ Chain: `lead-research-assistant` → `cold-email` → `sales-enablement` → `le
 Audience first, monetize second, own the list.
 Chain: `personal-brand` → `content-strategy` → `social-content` → `lead-magnets` → `email-sequence` → `offer-creation` → `passive-income-systems`
 
-**Current live asset:** The Wealth Architect System (`/product/`) is a Content/Creator + digital-product play — first BU with a shipped offer. Status: v4 built — 14-page energetic-tone guide, 3 custom infographics, no-refund/instant-download policy, and a "Liftoff" cover (rocket launching into a starry sky, exhaust trail becoming a rising wealth chart) chosen from 3 concepts per the brand standard. Not yet launched. Owner: you (Chief of Staff should be chasing this to "live" status until first sale lands).
+**Current live asset:** The Wealth Architect System (`/product/`) is **LIVE on Gumroad** — the first shipped, published offer in this repo. Launched at **$5.99** (intentional penetration price to generate initial sales/social proof, not a mistake) instead of the planned $19 anchor. PROTON's rule: raise the price once the product hits **$100 in cumulative sales**. VAULT should be watching for that trigger and flagging it the moment it's hit — this is a pre-approved decision per the simple/complex rule in `org/agent-team.md`, so raising the price at that point doesn't need to come back for approval again.
+
+**First sale has not landed yet.** That's the actual next milestone per `org/mission.md`. Zero traffic/promotion has gone out — the product is live but undiscovered. HERALD and REEL are the next characters to activate.
 
 ---
 
