@@ -100,6 +100,32 @@ Paste this into ChatGPT, then attach the reference images (the account whose lay
 >
 > Keep one consistent template across all 7 slides so the carousel reads as one cohesive design, not 7 separate ones.
 
+## Master Prompt for ChatGPT — business intro video
+
+The page's actual goal, for context on every future video prompt: grow an audience by teaching real wealth-building frameworks, position the brand as the insider system per `org/brand-standards.md`, and convert that trust into traffic toward the paid guide and future products. PROTON generates these through ChatGPT rather than spending Higgsfield credits directly.
+
+> I need a short 15 to 20 second vertical video (9:16, for Instagram Reels and TikTok) introducing my faceless finance and wealth-mindset brand, The Wealth Architect. No human faces and no voiceover anywhere, this is a completely faceless brand.
+>
+> Goal of the video: hook someone scrolling in the first second, tell them what this page is about in a few seconds, and drive them to check the link in bio.
+>
+> Visual style: cinematic, premium, aspirational, not corporate or flat. Motion graphics and kinetic typography over abstract dark cinematic b-roll, like ascending light trails, a city skyline at dawn, or a subtle upward-trending line chart animation, all symbolizing growth and momentum.
+>
+> Brand colors, use only these: deep navy background, hex #0b1220, and metallic gold accents and text, hex #d4af7a. No other colors anywhere.
+>
+> I'm attaching our logo. It appears clean at the start and end, small, never stretched or distorted.
+>
+> Text on screen, kinetic typography, bold geometric sans-serif, timed to the pacing, no voiceover needed:
+> 1. "Nobody teaches you this."
+> 2. "How to actually build wealth. Step by step."
+> 3. "The Wealth Architect System."
+> 4. "Link in bio."
+>
+> Pacing: fast cuts, confident and energetic. This should feel like a movement starting, not a lecture.
+>
+> Length: 15 to 20 seconds, vertical 9:16.
+
+Attach `product/assets/logo/wealth-architect-hq-badge-final.png` when pasting this in.
+
 ## The Master Post Prompt — reusable formula for every future post
 
 Same idea as the Master Prompt in `org/brand-standards.md` that finally got the logo right: stop re-guessing per post, use one formula that already works, built from the 5 posts above.
