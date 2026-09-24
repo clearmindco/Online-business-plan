@@ -33,6 +33,22 @@ Researched against real top-rated Fiverr logo sellers before writing this rule (
 
 A "hero shot" with lighting/glow/3D treatment can exist as a secondary marketing image (social posts, a website banner) — it is never the primary logo file, and the flat vector master must exist first.
 
+## The Master Prompt — reusable formula for every future visual generation
+
+This exists because getting the Wealth Architect HQ logo right took three rejected rounds (glow/neon, flat-but-boring, bold-but-still-wrong) before landing on the approved version. That's expensive. This section encodes what actually worked so the next room — HEARTH, CHALK, HOWL, INK, or whoever comes after — hits the bar on attempt one instead of six.
+
+**Step 1 — Reference beats description, every time.** If an approved reference image exists (a previously-approved asset, or one PROTON sends directly), attach it via Higgsfield's image-upload pipeline (`media_upload` → upload the bytes → `media_confirm` → `generate_image` with the `image_references` role) instead of describing it in prose. Matching an actual image always beats matching an adjective.
+
+**Step 2 — The material/lighting language that worked.** Keep this sentence structure, fill in the brackets:
+
+> "[SUBJECT/CONCEPT], rendered in brushed and polished [MATERIAL] with realistic material reflections, dramatic clean studio lighting from above-left creating bright specular highlights on the raised surfaces, richer/darker tones in the shadowed recessed areas, subtle soft reflection on the ground beneath the object, on a plain [BACKGROUND COLOR] background, [ONE unified silhouette description] — no clip-art combination of separate symbols, one ownable continuous shape."
+
+**Step 3 — One silhouette, not a collage.** The single biggest difference between the rejected rounds and the approved one: rejected versions combined multiple recognizable symbols as separate elements (compass + arrow + chart line, each doing its own thing). The approved version reads as one continuous, ownable shape. Before generating, state the single silhouette in one sentence — if it takes an "and" to describe the shape, it's still a collage, not a mark, and it isn't ready to generate yet.
+
+**Step 4 — The dual-deliverable rule still applies, unchanged.** A dimensional hero-shot render (Steps 1-3) is the secondary marketing asset — a social post, a cover element, a banner. It is never the only file. The flat, 1-2 solid color, no-glow vector master (per the Logos & Marks standard above) still has to exist, either as its own flat-vector generation pass or by simplifying the hero shot's approved silhouette. Shipping the dimensional version alone and calling it done fails this whole section.
+
+**When no reference exists yet:** skip Step 1, generate 2-3 options using Steps 2-3 language, and bring them to PROTON for a reference-quality pick before iterating further — never guess blind for multiple rounds hoping to land on the right direction by chance.
+
 ## Applies going forward without being re-asked
 
 Any new product drop, cover, or piece of sales copy in this repo should be built against this standard by default. If a draft doesn't clearly clear the bar, redo it before showing it, rather than shipping something merely adequate and waiting for feedback to fix it.
