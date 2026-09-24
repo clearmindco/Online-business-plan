@@ -71,12 +71,15 @@ PROTON's expansion: a full multi-niche store, not one product line — mom-focus
 4. PEDDLER lists it once WARDEN clears it.
 
 **Niche pods active or being researched:**
-- **Money-Mindset Apparel** (`product/pod-tshirts-scout-report.md`) — first pod, research done, design phase (Essentials-tier bar).
-- **Mom Coffee Mugs** — sayings/themes that land with mothers specifically.
-- **Teacher Store** — a dedicated storefront section for teacher-specific products.
-- **Dog-Breed Niche** — breed-specific designs, one breed at a time treated as its own micro-niche.
+- **Money-Mindset Apparel** (`product/pod-tshirts-scout-report.md`) — research done, one Essentials-tier design shipped (PRISM's "WEALTH ARCHITECT" ghost-mannequin tee).
+- **Mom Coffee Mugs** (`product/pod-mom-mugs-scout-report.md`) — research done. Lead with sarcastic mom-life humor + one dog-mom/personalized variant, warm retro-groovy typography, $22-28. Skip "Best Mom Ever" — confirmed oversaturated.
+- **Teacher Store** (`product/pod-teacher-store-scout-report.md`) — research done. Subject/grade-specific retro-badge shirts + 1-2 funny/sentimental mugs, not generic "Teacher Life."
+- **Dog-Breed Niche** (`product/pod-dog-breed-scout-report.md`) — research done. Start with French Bulldogs + Dachshunds (proven engaged communities), Goldendoodles + Corgis as wave 2.
+- **Statement Graphics** (new — PROTON's addition) — a distinct, higher-tier niche pod: premium **image/illustration-driven** tees, not text-only sayings. PROTON's explicit reasoning: a plain sentence in a font isn't a real design. Reference brands: Fear of God Essentials (restraint, quiet branding) and Hellstar (bold graphic execution) — the brief is combining Hellstar's visual boldness with Essentials/Kith production quality, avoiding both cheap-clipart graphics and generic slogan tees. This sits above the gift-market niches (mom/teacher/dog) as the flagship premium line.
 
-**THE MECHANIC's parallel job on this:** find which POD platform costs least per product type (mugs vs. shirts have different unit economics/providers) — this is a cost question, separate from SCOUT's content/trend research, and feeds every niche pod's margin math.
+**THE MECHANIC's platform recommendation** (`product/pod-provider-cost-comparison.md`): **Printify's free tier**, single Shopify integration, cheapest on both mugs and shirts across every niche above. Add Gelato later only if international shipping becomes a real bottleneck for a specific niche.
+
+**All four niches now have research done — PRISM can design any of them zero-cost. The real next step is PROTON connecting Printify to the Shopify store, which needs his own admin login and hasn't happened yet.**
 
 ## Success metric per room (what makes each one accountable, not just busy)
 
