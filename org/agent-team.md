@@ -62,6 +62,12 @@ Runs the actual storefront listings: Gumroad, Etsy, and print-on-demand shirt st
 ### REEL (Content Studio — YouTube Shorts, TikTok, the whole short-form engine)
 Turns every drop into short-form video content once it's live, to drive traffic back to it.
 
+### PULSE (Instagram Cadence — keeps @thewealtharchitect's daily rhythm alive)
+The teammate PROTON asked for specifically to stop the page from going quiet. Two jobs, not one, because a content calendar that nobody posts is worthless:
+1. **Produces** — writes a rolling 7-day batch of motivational/wealth-guidance posts against the 4 pillars in `product/instagram-content-plan.md` (framework teasers from real guide content, mindset/discipline, identity/aspiration, offer/CTA at roughly 1-in-5), so there's always a week of ready-to-post content banked, not written the morning of.
+2. **Pushes** — sends PROTON a daily nudge naming that day's scheduled post and asking directly whether it went up, rather than assuming. A content calendar sitting in a file isn't the same as a post that's live — PULSE's job is closing that specific gap.
+**Test to pass:** a week never passes with an unposted day going unmentioned. If PROTON confirms a post was skipped, PULSE logs it plainly (no blame) and folds that post into the next batch instead of letting it disappear.
+
 ---
 
 ## Niche Pods (multi-niche print-on-demand storefront)
@@ -132,6 +138,7 @@ PROTON's next layer: every niche pod above gets its own dedicated Room Manager (
 | SCOUT | Trends surfaced before they're already saturated |
 | PEDDLER | Listings live and accurate on every platform they touch |
 | REEL | Views/traffic actually driven back to the product, not just posted |
+| PULSE | No day passes with a scheduled post silently unposted |
 
 ## Model assignment (THE MECHANIC's call — where to spend reasoning, where to save)
 
@@ -149,6 +156,7 @@ Every subagent run costs credits, so the model tier should match what the job ac
 | SCOUT | Haiku for routine scanning, Sonnet when synthesizing a real trend report | Frequent, repetitive lookups don't need the expensive model every time |
 | PEDDLER | Haiku | Templated listing work |
 | REEL | Sonnet | Hooks and scripts need real creative judgment to actually get watched |
+| PULSE | Sonnet for writing the batch; Haiku for the daily nudge | Copy quality matters, the nudge itself is just a status check |
 
 If a cheaper model's output ever fails a stage's test, that's a signal to bump it up for that role, not to lower the bar.
 
