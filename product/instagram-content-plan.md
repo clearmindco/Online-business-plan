@@ -8,6 +8,7 @@ Built per `org/operating-model.md`'s Content/Creator chain (`personal-brand` →
 2. **Mindset/discipline** — ties directly to the page's own bio ("Raised by pain. Guided by discipline.") and the Slight Edge philosophy already in `org/mission.md`: small consistent choices compound. Original wording, not book text.
 3. **Identity/aspiration** — per the brand standard's cover bar: "I need this, I want to be that person." Short, punchy, text-forward — no face needed, stays faceless.
 4. **Offer/CTA** — direct plug to the guide, link-in-bio. Kept to roughly 1-in-5 posts so the page reads as value-first, not a constant pitch (an 80/20 ratio, not a storefront).
+5. **AI Prompt Playbook** (new, PROTON's idea) — numbered-carousel posts teaching real, usable AI prompts for starting/growing a business, in our own navy/gold identity, never copying another account's face or branding. Safer content than stock-picking prompts (a real prompt-of-the-day account is doing that) — a prompt is not a factual claim, so there's no accuracy risk, and it ties directly to the actual skill chain this business runs on (`customer-research`, `offer-creation`, `content-strategy`, `competitor-profiling`, `launch-strategy` — see `org/operating-model.md`).
 
 ## Cadence
 
@@ -46,6 +47,27 @@ Bio is live: "Financial freedom isn't luck. It's discipline, repeated daily. Lin
 > Save first or pay off debt first? Invest or build the emergency fund first?
 > Most people guess. The Wealth Architect System lays out the actual 8 step order, so you can stop guessing and start executing.
 > Link in bio.
+
+## First AI Prompt Playbook carousel — ready to build
+
+**Title slide:** "5 AI Prompts That Can Actually Start Your Business Today"
+
+**Slide 1 — Market Research**
+> Act as a market researcher. I'm starting a [type of business] targeting [audience]. Identify my top 3 competitors, what they do well, where they fall short, and one gap I could fill that they're not addressing.
+
+**Slide 2 — Offer Creation**
+> Act as a pricing and offer strategist. Here's what I'm selling: [describe it]. Build me a value stack, the core offer plus bonuses, and suggest 3 price points with the reasoning behind each.
+
+**Slide 3 — Content Plan**
+> Act as a content strategist. My business is [describe]. My audience is [describe]. Give me 4 content pillars and 5 post ideas for each that would actually get engagement, not generic advice.
+
+**Slide 4 — Positioning**
+> Act as a brand strategist. Compare my business [describe] against these competitors [list them]. Tell me exactly how to position myself so I don't sound like a copy of them.
+
+**Slide 5 — Launch Plan**
+> Act as a launch strategist. I'm about to launch [product]. Give me a day-by-day 30-day plan from pre-launch to first sale, including what to post, when, and the goal of each week.
+
+**Closing slide (CTA):** "This is the same system running behind this page. Full framework: The Wealth Architect System, link in bio."
 
 ## The Master Post Prompt — reusable formula for every future post
 
