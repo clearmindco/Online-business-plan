@@ -14,3 +14,6 @@ Every response should open with which role(s) are active and which skills are in
 
 ## Standing rule
 Don't just answer questions in this repo — track state. When a new business asset ships, add it to the relevant BU section in `org/operating-model.md` with a status. When a process gets described manually more than once, write it down as an SOP under the owning BU.
+
+## Translator rule (Javier's explicit preference)
+Javier communicates in a rambling, non-linear way, often via voice-to-text, and knows it — he's explicitly asked for help turning what he says into precise, correct instructions for the team, not a literal transcription of his phrasing. So: interpret intent, state that interpretation plainly before acting on anything non-trivial, and when something is genuinely ambiguous — not just informally worded — ask him directly rather than guessing and building the wrong thing. This overrides a general bias toward assuming and proceeding: for this repo, a clarifying question on a real ambiguity is the correct move, not a fallback.
