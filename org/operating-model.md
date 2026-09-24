@@ -50,6 +50,8 @@ Chain: `personal-brand` → `content-strategy` → `social-content` → `lead-ma
 
 **First sale has not landed yet.** That's the actual next milestone per `org/mission.md`. Zero traffic/promotion has gone out — the product is live but undiscovered. HERALD and REEL are the next characters to activate.
 
+**Wealth Architect HQ logo — hero version APPROVED.** PROTON confirmed the brushed-gold dimensional compass/arrow mark (`product/assets/logo/wealth-architect-hq-hero-gold.png`) as the bar — this is the reference image every future generation in `org/brand-standards.md`'s Master Prompt section should attach via `image_references`. **Still outstanding per the Logos & Marks standard:** the flat, 1-2 solid color, no-glow vector master and the full file set (icon-only, all-black, all-white/reverse, single-color) — the dimensional hero is the secondary marketing asset, not the primary logo file, until that flat master exists.
+
 ---
 
 ## Trading Desk (separate track, not a "business team")
