@@ -49,6 +49,8 @@ This exists because getting the Wealth Architect HQ logo right took three reject
 
 **When no reference exists yet:** skip Step 1, generate 2-3 options using Steps 2-3 language, and bring them to PROTON for a reference-quality pick before iterating further — never guess blind for multiple rounds hoping to land on the right direction by chance.
 
+**Lesson from the actual shipped Wealth Architect HQ logo (learn this one, don't relearn it):** PRISM's lockup attempts placed the icon beside the wordmark, flat, side-by-side — none of them landed. The version PROTON actually shipped is a **contained badge/emblem**: the icon sits inside a bordered circular badge, with the wordmark as a banner underneath the icon, inside the same badge — not beside it. Badge/emblem format reads more premium and more "insider" than a side-by-side lockup, and matches the exclusivity bar in this file. Default to the badge/emblem structure for any future icon+wordmark lockup, not a side-by-side pairing.
+
 ## Applies going forward without being re-asked
 
 Any new product drop, cover, or piece of sales copy in this repo should be built against this standard by default. If a draft doesn't clearly clear the bar, redo it before showing it, rather than shipping something merely adequate and waiting for feedback to fix it.
