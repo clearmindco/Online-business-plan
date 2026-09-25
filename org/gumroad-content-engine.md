@@ -37,7 +37,9 @@ Pull from the top. Add new ideas to the bottom instead of losing them in convers
 
 1. **The Savings Architect** — already named as the next planned drop in `org/brand-standards.md` and `org/agent-team.md`.
 2. **The Dating Architect** — already named as a planned drop in `org/brand-standards.md`.
-3. *(open — CHIEF proposes the next topic once #1 and #2 are in motion, checked against real Gumroad category performance first)*
+3. **The Debt Freedom Architect** (SCOUT, added 2026-09-25) — a full standalone deep-dive on the Debt Freedom Ladder framework, which is already the specific chapter used in Instagram content. Real signal, not a guess: narrow, single-problem guides outsell broad ones 3-5x on Gumroad, and this expands proven interest rather than starting cold. ([Inkfluence AI](https://www.inkfluenceai.com/blog/ebook-ideas-that-sell-2026))
+4. **The Side Hustle Architect** (SCOUT, added 2026-09-25) — narrow guide on starting one AI-assisted income stream, directly reusable with the AI Prompt Playbook content already built for Instagram. Personal finance and business/side-income guides are named among the best-selling Gumroad ebook categories for 2026, and the $30-49 price band converts better than sub-$10 pricing. ([Accio](https://www.accio.com/business/gumroad-top-selling-ebooks), [Inkfluence AI](https://www.inkfluenceai.com/blog/ebook-ideas-that-sell-2026))
+5. *(open — CHIEF proposes the next topic once the above are in motion, checked against real Gumroad category performance first)*
 
 ## Status reporting
 
