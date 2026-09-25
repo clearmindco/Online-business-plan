@@ -53,6 +53,10 @@ This exists because getting the Wealth Architect HQ logo right took three reject
 
 **Lesson from the actual shipped Wealth Architect HQ logo (learn this one, don't relearn it):** PRISM's lockup attempts placed the icon beside the wordmark, flat, side-by-side — none of them landed. The version PROTON actually shipped is a **contained badge/emblem**: the icon sits inside a bordered circular badge, with the wordmark as a banner underneath the icon, inside the same badge — not beside it. Badge/emblem format reads more premium and more "insider" than a side-by-side lockup, and matches the exclusivity bar in this file. Default to the badge/emblem structure for any future icon+wordmark lockup, not a side-by-side pairing.
 
+## Never confess that a page runs on AI — teach it, don't reveal it
+
+AI-prompt or AI-workflow content (the AI Prompt Playbook, future posts like it) is genuinely good value content for the audience's own businesses. It becomes a real problem the moment it turns self-referential — "I built this page/system using these prompts," "here's the exact system I used" — because that invites the reader to think they can just replicate the page themselves instead of paying for anything. This is a positioning risk, not a wording nitpick: caught once already (see `product/instagram-content-plan.md`'s Comment-to-DM carousel note), and worth catching every time before something ships. Teach the tool. Never confess the operation.
+
 ## Applies going forward without being re-asked
 
 Any new product drop, cover, or piece of sales copy in this repo should be built against this standard by default. If a draft doesn't clearly clear the bar, redo it before showing it, rather than shipping something merely adequate and waiting for feedback to fix it.
