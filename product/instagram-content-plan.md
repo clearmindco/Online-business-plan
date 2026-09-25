@@ -124,6 +124,34 @@ PROTON found a viral example of this format (curiosity-gap hook, numbered prompt
 
 **The part that isn't automatic:** the comment-to-DM gate only works if the DMs actually go out. Instagram's own Professional Dashboard has a built-in "Automated replies to comments" feature (Settings → Automations) that can auto-DM anyone who comments a keyword, no third-party tool needed. Set that up before posting this one, or the CTA is a promise nobody gets to collect on.
 
+## The Master Carousel Prompt — use this every time, not a one-off
+
+This replaces writing a fresh prompt per carousel. Fill in the slide content at the bottom, keep everything above it exactly as written, and paste the whole thing into ChatGPT along with the badge logo attached.
+
+> I'm building an Instagram carousel for my brand @thewealtharchitect, a finance and wealth-mindset brand that is completely faceless, no human photos anywhere.
+>
+> Brand rules, apply to every slide:
+> - Background: solid deep navy, hex #0b1220.
+> - Accent and highlight color: metallic gold, hex #d4af7a.
+> - Headline font: bold geometric sans-serif, heavy weight, all caps on emphasis words.
+> - No human face or photo anywhere. Use my attached gold compass-and-arrow badge logo, small and clean in a corner, never stretched or distorted.
+> - One message per slide, no clutter.
+>
+> Output rules:
+> - Export EACH slide as its own separate image file, not one combined sheet or grid. I need to download and post them individually, in order, as an Instagram carousel.
+> - Label each file by its slide number in posting order (Slide 1, Slide 2, etc.) so I upload them in the right sequence.
+> - Keep one consistent template across every slide so the carousel reads as one cohesive design.
+>
+> After the images, write the caption and hashtags for this post, following these rules exactly:
+> - Caption is 2-3 short lines, plain language, no long paragraphs.
+> - End the caption with a line that makes someone want to share it with a specific person, not just save it for themselves.
+> - Include a real call to action tied to the actual content and the link in bio.
+> - Maximum 5 hashtags, chosen for real relevance, not volume.
+>
+> Here is the exact slide content, do not rewrite or add to it:
+>
+> [paste the slide-by-slide text for whichever post this is]
+
 ## Master Prompt for ChatGPT — business intro video
 
 The page's actual goal, for context on every future video prompt: grow an audience by teaching real wealth-building frameworks, position the brand as the insider system per `org/brand-standards.md`, and convert that trust into traffic toward the paid guide and future products. PROTON generates these through ChatGPT rather than spending Higgsfield credits directly.
