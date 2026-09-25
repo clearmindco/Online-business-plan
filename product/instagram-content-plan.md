@@ -138,9 +138,11 @@ This replaces writing a fresh prompt per carousel. Fill in the slide content at 
 > - One message per slide, no clutter.
 >
 > Output rules:
+> - Each slide is 1080 x 1350px (4:5, Instagram's carousel ratio).
 > - Export EACH slide as its own separate image file, not one combined sheet or grid. I need to download and post them individually, in order, as an Instagram carousel.
 > - Label each file by its slide number in posting order (Slide 1, Slide 2, etc.) so I upload them in the right sequence.
 > - Keep one consistent template across every slide so the carousel reads as one cohesive design.
+> - Check spelling before finalizing, and keep the logo proportional, never stretched.
 >
 > After the images, write the caption and hashtags for this post, following these rules exactly:
 > - Caption is 2-3 short lines, plain language, no long paragraphs.
