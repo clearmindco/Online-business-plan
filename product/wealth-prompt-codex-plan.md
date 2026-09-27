@@ -1,4 +1,4 @@
-# The Wealth Architect Prompt Codex — Product Plan
+# The Generational Wealth Prompt Vault — Product Plan
 
 PROTON's idea, triggered by two real references: a "Master Claude" prompt-book ad (1900 prompts, 350 assistants) and a bookstore sales book pairing AI with a proven category ("The AI Edge"). Researched before committing to specifics, per the standing "research first, beat what's winning" rule.
 
@@ -8,11 +8,11 @@ Two direct competitors already exist on Gumroad: an "AI Financial Freedom Prompt
 
 ## Why we beat the existing competitors, not just copy them
 
-Their products are generic prompt dumps ("1900 prompts, 350 assistants" — spray and pray, no real curation). Ours is the AI companion to a brand people already trust: it's not a standalone list, it's the "AI Wealth Advisor" bonus already teased inside The Wealth Architect System itself, built out into its own full product. That's a real differentiator, not a marketing claim — the cross-sell is already built into the existing guide.
+Their products are generic prompt dumps ("1900 prompts, 350 assistants" — spray and pray, no real curation). Ours is the AI companion to a brand people already trust: it grows directly out of the "AI Wealth Advisor" bonus already teased inside The Wealth Architect System, built out into its own full product under its own name, The Generational Wealth Prompt Vault. That's a real differentiator, not a marketing claim — the cross-sell is already built into the existing guide.
 
 ## Positioning in the funnel
 
-The Wealth Architect System ($5.99, entry point) → **The Wealth Architect Prompt Codex** (this product, the upgrade) → future higher-tier offers. Classic value-ladder logic already used elsewhere in this business (`org/mission.md`'s DotCom Secrets chain: lead magnet → tripwire → core → profit maximizer).
+The Wealth Architect System ($5.99, entry point) → **The Generational Wealth Prompt Vault** (this product, the upgrade) → future higher-tier offers. Classic value-ladder logic already used elsewhere in this business (`org/mission.md`'s DotCom Secrets chain: lead magnet → tripwire → core → profit maximizer).
 
 ## 7 categories (matches the benchmark competitor's structure, not its content)
 
@@ -47,4 +47,4 @@ PROTON's instinct ("every platform would be good") is directionally right but Gu
 
 ## Status
 
-Plan only — not yet queued into the weekly Gumroad pipeline. Next step: PROTON confirms the name, category list, and $27 price point, then SCRIBE starts drafting.
+**Name confirmed: The Generational Wealth Prompt Vault.** Categories and $27 launch price still stand as proposed above unless PROTON says otherwise. Next step: SCRIBE starts drafting once PROTON gives the final go-ahead on categories/price.
