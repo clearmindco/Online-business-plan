@@ -41,6 +41,10 @@ Pull from the top. Add new ideas to the bottom instead of losing them in convers
 4. **The Side Hustle Architect** (SCOUT, added 2026-09-25) — narrow guide on starting one AI-assisted income stream, directly reusable with the AI Prompt Playbook content already built for Instagram. Personal finance and business/side-income guides are named among the best-selling Gumroad ebook categories for 2026, and the $30-49 price band converts better than sub-$10 pricing. ([Accio](https://www.accio.com/business/gumroad-top-selling-ebooks), [Inkfluence AI](https://www.inkfluenceai.com/blog/ebook-ideas-that-sell-2026))
 5. *(open — CHIEF proposes the next topic once the above are in motion, checked against real Gumroad category performance first)*
 
+## Premium tier (separate from the queue above — an upgrade product, not another entry guide)
+
+**The Wealth Architect Prompt Codex** (PROTON's idea, added 2026-09-27) — full plan in `product/wealth-prompt-codex-plan.md`. A curated AI prompt library for building wealth, positioned as the upgrade from the $5.99 entry guide. Validated against 2 real existing Gumroad competitors ($37-47 price band). Status: plan only, waiting on PROTON to confirm name/categories/price before SCRIBE starts drafting.
+
 ## Status reporting
 
 Every drop that moves through this pipeline gets reported to PROTON in plain terms: what stage it's at, what's been verified, what's next — so he can see multiple income streams actually building, not just hear that they are.
