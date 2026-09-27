@@ -28,7 +28,7 @@ Fixed to the live Gumroad link: `https://arresidential.gumroad.com/l/fogblj`. CT
 
 ## Status
 
-Bio is live: "Financial freedom isn't luck. It's discipline, repeated daily. Link in the bio." with the real Gumroad link. **Post 1 is posted** with a matching Wealth Split graphic (navy/gold, on-brand). Next up: Post 2.
+Bio is live: "Financial freedom isn't luck. It's discipline, repeated daily. Link in the bio." with the real Gumroad link. **Post 1 is posted** with a matching Wealth Split graphic (navy/gold, on-brand). Post 2 status unconfirmed as of PULSE's last two check-ins. **Week 2 batch (Posts 6-10) added 2026-09-27** — ready for PROTON's go-ahead before any matching visuals get built.
 
 ## Week 1 — ready to post
 
@@ -54,6 +54,33 @@ Bio is live: "Financial freedom isn't luck. It's discipline, repeated daily. Lin
 **Post 5 (Framework teaser) — The Order of Operations**
 > Save first or pay off debt first? Invest or build the emergency fund first?
 > Most people guess. The Wealth Architect System lays out the actual 8 step order, so you can stop guessing and start executing.
+> Link in bio.
+
+## Week 2 — ready to post
+
+Bio link is resolved, so this batch includes a CTA post (1-in-5, per the growth rules above). 5 posts, matching the established Mon-Fri cadence — not 7, since the plan's own cadence rule already says Mon-Fri only and Sat/Sun get nothing scheduled.
+
+**Post 6 (Framework teaser) — The Habits That Make This Stick**
+> A framework only works if you actually keep doing it after the excitement wears off.
+> Chapter 5 of The Wealth Architect System isn't more theory. It's the habits that make everything before it actually stick.
+> Link in bio.
+
+**Post 7 (Mindset)**
+> You don't need a better plan. Most people already have one.
+> What you need is to still be doing it on the day you don't feel like it. That's the entire game, and almost nobody says it out loud.
+
+**Post 8 (Framework teaser) — Money Myths That Keep People Broke**
+> Some of what you believe about money, you never actually checked. You just repeated it because everyone else did.
+> Chapter 6 goes through the myths one at a time and says plainly which ones are actually true.
+> Link in bio.
+
+**Post 9 (Identity/aspiration)**
+> Nobody is born knowing how to manage money. The people who look like they have it figured out just started earlier than you're starting now.
+> Today counts as early enough.
+
+**Post 10 (Offer/CTA)**
+> Most guides stop at telling you what to do.
+> The Wealth Architect System includes an AI prompt built to turn the whole framework into your own personal plan, not just a chapter you read once and forget.
 > Link in bio.
 
 ## First AI Prompt Playbook carousel — ready to build
