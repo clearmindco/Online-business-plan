@@ -155,6 +155,16 @@ Comment-to-DM format (proven mechanic, see below), reusing 2 of the Vault's own 
 
 **Setup required before posting:** turn on Instagram's native "Automated replies to comments" (Professional Dashboard → Settings → Automations) so a comment containing "VAULT" auto-DMs the Gumroad link — this is what makes the comment-to-DM mechanic actually deliver without manual replies. Set the trigger keyword, the auto-DM message, and test it once before the post goes live.
 
+### Comment-to-DM SOP (now used on 2+ products, documented 2026-09-28)
+
+Every product with a comment-to-DM CTA gets its own trigger keyword, never shared, so replies route to the right product:
+- **The Generational Wealth Prompt Vault** — keyword **VAULT** — DM sends https://thewealtharchitecthq.gumroad.com/l/qpvbsl
+- **The Savings Architect** — keyword **SAVE** — DM sends https://thewealtharchitecthq.gumroad.com/l/gfegtn
+
+**Setup path:** Profile → ≡ menu → Settings and activity → Creator tools and controls (or "Professional dashboard") → Automations → Automated replies to comments → add trigger keyword + DM text → send a test comment to confirm before trusting it live.
+
+**Why this over a bot/CLI:** this is Instagram's own native feature, fully ToS-compliant, and does exactly what a scraping tool or unofficial API script would try to fake, with none of the ban risk. A real Meta Graph API integration (proper OAuth, Business account, Meta app review) is the only legitimate way to go further than this — worth building later if the DM logic needs to get more complex than one keyword to one message, not before.
+
 ## The 30-Day Calendar (JARVIS Command 1, run natively 2026-09-28)
 
 Run directly in this session, not pasted into an external tool — full account history, both live products, and the growth rules were already loaded, so nothing needed filling in. This is Posts 12-41, spanning Weeks 3-8. It's a planning calendar (format, topic, hook, core idea, CTA) — full ready-to-post captions get written closer to each date, same as Weeks 1-2 were, so copy can react to whatever's actually landed by then instead of being locked in a month early.
