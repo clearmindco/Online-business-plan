@@ -30,7 +30,7 @@ Fixed to the live Gumroad link: `https://thewealtharchitecthq.gumroad.com/l/fogb
 
 ## Status
 
-Bio is live: "Financial freedom isn't luck. It's discipline, repeated daily. Link in the bio." with the entry-guide Gumroad link. **Real numbers as of 2026-09-28 (PROTON's own screenshot, not an assumption): 3 posts, 0 followers.** Post 1 is posted with a matching Wealth Split graphic (navy/gold, on-brand). Post 2 status unconfirmed as of PULSE's last check-ins. **Week 2 batch (Posts 6-10) added 2026-09-27** — ready for PROTON's go-ahead before any matching visuals get built. **Post 11 (Vault launch) added 2026-09-28**, see below — ready to post any time, doesn't need to wait on Posts 2-10 confirming first.
+Bio is live: "Financial freedom isn't luck. It's discipline, repeated daily. Link in the bio." with the entry-guide Gumroad link. **Real numbers as of 2026-09-28 (PROTON's own screenshot, not an assumption): 3 posts, 0 followers.** Post 1 is posted with a matching Wealth Split graphic (navy/gold, on-brand). Post 2 status unconfirmed as of PULSE's last check-ins. **Week 2 batch (Posts 6-10) added 2026-09-27** — ready for PROTON's go-ahead before any matching visuals get built. **Post 11 (Vault launch) added 2026-09-28**, see below — ready to post any time, doesn't need to wait on Posts 2-10 confirming first. **The 30-Day Calendar (Posts 12-41) added 2026-09-28** via JARVIS Command 1, run natively in this session — a planning calendar, not full captions yet, see below.
 
 ## Week 1 — ready to post
 
@@ -110,6 +110,47 @@ Comment-to-DM format (proven mechanic, see below), reusing 2 of the Vault's own 
 **Hashtags (5 max):** #AIprompts #ChatGPTprompts #FinancialFreedom #WealthBuilding #PersonalFinance
 
 **Setup required before posting:** turn on Instagram's native "Automated replies to comments" (Professional Dashboard → Settings → Automations) so a comment containing "VAULT" auto-DMs the Gumroad link — this is what makes the comment-to-DM mechanic actually deliver without manual replies. Set the trigger keyword, the auto-DM message, and test it once before the post goes live.
+
+## The 30-Day Calendar (JARVIS Command 1, run natively 2026-09-28)
+
+Run directly in this session, not pasted into an external tool — full account history, both live products, and the growth rules were already loaded, so nothing needed filling in. This is Posts 12-41, spanning Weeks 3-8. It's a planning calendar (format, topic, hook, core idea, CTA) — full ready-to-post captions get written closer to each date, same as Weeks 1-2 were, so copy can react to whatever's actually landed by then instead of being locked in a month early.
+
+**Pattern:** Every Friday is Offer/CTA, alternating Wealth Architect System (bio link) and The Generational Wealth Prompt Vault (comment-to-DM) — matches the standing 1-in-5 rule exactly. Mon/Tue/Wed/Thu rotate Framework teaser, Mindset, Vault-category teaser (the same pillar as the AI Prompt Playbook, just pulling from the Vault's 7 categories rather than only the 5 business-starting prompts), and Identity/aspiration.
+
+| Post | Day | Format | Topic | Hook | Core idea | CTA |
+|---|---|---|---|---|---|---|
+| 12 | Mon (Wk3) | Framework teaser | Where Money Grows (Ch. 3, first time used) | "Saving is not the same as growing." | Chapter 3's real answer: emergency fund, retirement accounts (kept brief, no match percentages), index funds, real estate, your own skills — explained plainly. | Link in bio. |
+| 13 | Tue | Mindset | The comparison trap | "You're not behind. You're comparing lap times with someone who started the race years ago." | Everyone's highlight reel looks ahead. The gap closes with reps, not comparison. | none |
+| 14 | Wed | Vault-category teaser | Budgeting (Vault 1.1) | "This prompt built my paycheck split in 30 seconds." | Single-slide teaser using the Vault's own Budgeting worked example, proving the value before the ask. | Comment VAULT. |
+| 15 | Thu | Identity/aspiration | The version of you with a plan | "Same paycheck, two people. Only one of them isn't stressed on the 25th." | Short, no framework detail, pure identity pull. | none |
+| 16 | Fri | Offer/CTA | The Generational Wealth Prompt Vault | "70 prompts. 7 categories. Zero guesswork." | Direct plug: AI that actually works for your money instead of writing captions. | Comment VAULT. |
+| 17 | Mon (Wk4) | Vault-category teaser | Debt Payoff (Vault 2.1) | "Avalanche or snowball? The math says one thing. Your motivation might say another." | Teases the payoff-order prompt, ties directly to the already-taught Debt Freedom Ladder. | Comment VAULT. |
+| 18 | Tue | Mindset | The one bad month panic | "One expensive month doesn't undo a system. It's a data point, not a verdict." | Reframes a rough month as information, not failure — keeps people from abandoning a plan over one setback. | none |
+| 19 | Wed | AI Prompt Playbook | Business & Offer Building (Vault 4.1) | "Turn what you're selling into an actual offer in one prompt." | Teases the value-stack/pricing prompt for anyone with a side hustle idea already brewing. | Comment VAULT. |
+| 20 | Thu | Identity/aspiration | Debt-free is a decision | "Debt-free isn't an income level. It's an order of operations, applied on repeat." | Reinforces that the framework, not a raise, is what gets someone out. | none |
+| 21 | Fri | Offer/CTA | The Wealth Architect System | "The paycheck split. The payoff order. Where money actually grows. One guide, $5.99." | Direct plug back to the entry guide for anyone who's been reading teasers but hasn't converted. | Link in bio. |
+| 22 | Mon (Wk5) | Framework teaser | Money Myths, part 2 | "\"Renting is throwing money away\" isn't true. It's just incomplete." | A second myth from Chapter 6, not repeating the original teaser post's angle. | Link in bio. |
+| 23 | Tue | Mindset | Discipline vs. motivation | "Motivation got you started. It won't get you to month 6. Discipline doesn't ask permission." | Direct Slight Edge tie-in per `org/mission.md`, original wording. | none |
+| 24 | Wed | Vault-category teaser | Income Growth & Side Hustles (Vault 3.4) | "6 hours a week and a skill you already have is enough to start." | Teases the side-hustle-idea-audit prompt using the Vault's own worked example. | Comment VAULT. |
+| 25 | Thu | Identity/aspiration | The side hustle that starts with what you have | "You don't need a new skill. You need to stop underpricing the one you already have." | Aspirational, ties to income-growth teaser from the day before without repeating it. | none |
+| 26 | Fri | Offer/CTA | The Generational Wealth Prompt Vault | "Every prompt is fill-in-the-blank. No guessing what to type." | Reinforces the Vault's actual differentiator against generic AI prompt dumps. | Comment VAULT. |
+| 27 | Mon (Wk6) | Vault-category teaser | Investing Basics (Vault 5.1) | "What's an index fund, actually? Not the textbook answer, the real one." | Teases the education-only investing prompt — explains a concept, never picks a stock. | Comment VAULT. |
+| 28 | Tue | Mindset | Fear of investing wrong | "The real risk isn't picking the wrong fund. It's the 10 years you didn't start." | Addresses paralysis directly, stays inside the no-specific-advice editorial line. | none |
+| 29 | Wed | Framework teaser | Order of Operations — the step everyone skips | "Most people attack debt before they have $500 saved. That's backwards, and it's why they relapse." | A specific, sharper angle on Chapter 4 than the original teaser post used. | Link in bio. |
+| 30 | Thu | Identity/aspiration | You don't need to be a finance person | "You don't need to love spreadsheets. You need one system you actually follow." | Removes the "I'm just not a numbers person" excuse without shaming it. | none |
+| 31 | Fri | Offer/CTA | The Wealth Architect System | "6 chapters. No fluff. An AI prompt that builds your personal plan." | Direct plug, rotates back to the entry guide per the alternating pattern. | Link in bio. |
+| 32 | Mon (Wk7) | Vault-category teaser | Career & Income Negotiation (Vault 6.1) | "There's a script for asking for more money. Most people wing it instead." | Teases the salary-negotiation prompt and its worked example. | Comment VAULT. |
+| 33 | Tue | Mindset | Asking for more isn't greedy | "Asking what you're worth isn't greedy. Staying quiet and resentful is the actual cost." | Direct mindset shift tied to the day before's teaser. | none |
+| 34 | Wed | AI Prompt Playbook | Protecting What You Build (Vault 7.4) | "The one checklist that saves your family a scramble in an emergency." | Teases the document-organization prompt, stays education-only per the category's own rule. | Comment VAULT. |
+| 35 | Thu | Identity/aspiration | Protecting what you build | "Building wealth and protecting it are two different skills. Most people only practice one." | Bridges into why category 7 exists at all. | none |
+| 36 | Fri | Offer/CTA | The Generational Wealth Prompt Vault | "7 categories. One vault. $27." | Short, direct, closes out the week. | Comment VAULT. |
+| 37 | Mon (Wk8) | Mindset | The 1% better trap | "You don't need a 10% better month. You need a 1% better day, repeated until it compounds." | Direct Slight Edge language, original wording, closing the calendar on the philosophy that started it. | none |
+| 38 | Tue | Identity/aspiration | Nobody's coming to fix this | "Nobody's coming to fix your money for you. That's not a scary sentence. It's the whole point." | Reframes self-responsibility as empowering, not harsh. | none |
+| 39 | Wed | Vault-category teaser | Business & Offer Building (Vault 4.7) | "Your one offer could already be three, if you built the ladder." | Teases the value-ladder prompt, ties back to Day 19's offer-building teaser. | Comment VAULT. |
+| 40 | Thu | Framework teaser | Habits, part 2 | "The habit that matters most isn't the budget. It's the 10 minutes you spend reviewing it every week." | A second angle on Chapter 5, distinct from the original teaser post. | Link in bio. |
+| 41 | Fri | Offer/CTA | Both products (value ladder) | "Start with the $5.99 guide. Go deeper with the $27 Vault. Same system, more depth." | Closes the 30-day cycle by naming the actual funnel out loud for anyone who's been reading all month. | Link in bio + comment VAULT. |
+
+**Next step:** once PROTON confirms Posts 2-10 are actually posting (per PULSE's daily nudges), this calendar is ready to convert into full captions week by week, same process as Weeks 1-2.
 
 ## First AI Prompt Playbook carousel — ready to build
 
