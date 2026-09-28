@@ -22,11 +22,17 @@ Built per `org/operating-model.md`'s Content/Creator chain (`personal-brand` →
 
 Account is brand new (1 post live) — front-load consistency to build initial signal. **5 posts/week to start** (Mon-Fri), mixing carousels and single-image posts. This is the Slight Edge rule in practice: the daily discipline of posting is what compounds, not any single post.
 
-## Bio link — RESOLVED, but the queued trigger just fired
+## Bio link — CHANGED 2026-09-28, now points to the full storefront
 
-Fixed to the live Gumroad link: `https://thewealtharchitecthq.gumroad.com/l/fogblj` (Wealth Architect System, $5.99 entry guide). CTA posts (Pillar 4, and the "link in bio" lines in Posts 3 and 5 below) are unblocked.
+Three real products are live now (Wealth Architect System $5.99, The Generational Wealth Prompt Vault $27, The Savings Architect $6.99), so a single product link stopped making sense — PROTON's own call, and the right one. Bio link is now the Gumroad storefront root, not one product page:
 
-**The Linktree-style page was queued for "once a second real destination is live" — that condition is now true.** The Generational Wealth Prompt Vault ($27) went live 2026-09-28 at `https://thewealtharchitecthq.gumroad.com/l/qpvbsl`, so there are now 2 real Gumroad links this account needs to point to. Decision for now: keep the single bio link on the $5.99 entry guide (correct funnel logic, cheapest and widest top-of-funnel stays the one-click destination) and drive the Vault through the comment-to-DM mechanic instead of fighting for bio-link space. Build the actual link-in-bio page once a third destination shows up or once Vault traffic through comments proves heavy enough to be worth a dedicated page.
+```
+https://thewealtharchitecthq.gumroad.com
+```
+
+That page lists all three products, so anyone landing from the bio sees the whole catalog instead of getting funneled to whichever one link happened to be picked. This replaces the old single-product bio link entirely — every "link in bio" CTA line in the posts below now sends people to the full store, not just the entry guide.
+
+A dedicated Linktree-style page is still a real future upgrade (adds framing/copy Gumroad's own storefront doesn't give you), but the storefront root solves the actual problem today with zero build time.
 
 ## Status
 
