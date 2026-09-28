@@ -8,7 +8,7 @@ This is the number "at the top of each room" PROTON asked for: real revenue per 
 |---|---|---|---|---|
 | **Wealth Architect** (Content/Creator) | $0 | 0 | Live on Gumroad at $5.99, zero traffic pushed through yet | Raise price to $19 at $100 cumulative sales (pre-approved, VAULT acts without re-asking) |
 | **Generational Wealth Prompt Vault** (Content/Creator) | $0 | 0 | **Live on Gumroad at $27** — https://thewealtharchitecthq.gumroad.com/l/qpvbsl | Set once first sale lands |
-| **The Savings Architect** (Content/Creator) | $0 | 0 | Packaged 2026-09-28, ready to upload, not yet live — https://to.adobe.com/ddB5ojIJcl6sEy0KMk0KRaacfpEN | Set once listed and first sale lands |
+| **The Savings Architect** (Content/Creator) | $0 | 0 | **Live on Gumroad at $6.99** — https://thewealtharchitecthq.gumroad.com/l/gfegtn | Set once first sale lands |
 | **Money-Mindset Apparel** | $0 | 0 | Design phase — not listed anywhere yet | Set once listed and first sale lands |
 | **Mom Coffee Mugs** | $0 | 0 | Research done, design phase | Set once listed and first sale lands |
 | **Teacher Store** | $0 | 0 | Research done, design phase | Set once listed and first sale lands |
