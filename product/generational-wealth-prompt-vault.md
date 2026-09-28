@@ -10,7 +10,7 @@ Everybody's using AI to write emails and captions. Almost nobody is using it to 
 
 Inside are 70 prompts, organized into 7 categories that cover the real order of operations for building financial freedom: get your cash flow right, kill your debt, grow your income, build something that pays you back, understand investing without getting scammed, get paid what you're worth, and protect what you build.
 
-Every prompt follows the same structure: a role for the AI to act as, a clear task, and bracketed fill ins for your specific numbers and situation. Copy, fill in the brackets, paste into ChatGPT or Claude, and you get a real answer built around your life, not a generic listicle.
+Every prompt follows the same structure: a role for the AI to act as, a clear task, and bracketed fill ins for your specific numbers and situation. Copy, fill in the brackets, paste into ChatGPT or Claude, and you get a real answer built around your life, not a generic listicle. Every category opens with a worked example, a real filled-in version of one of that category's prompts plus a sample AI response, so you see exactly what you're getting before you use a single one yourself.
 
 ## How to use this
 
@@ -23,11 +23,29 @@ Every prompt follows the same structure: a role for the AI to act as, a clear ta
 
 **This is not financial, legal, or tax advice, and it's not a replacement for a licensed advisor.** These prompts are tools for thinking clearly and getting organized. Anything with real financial stakes (investing specific amounts, filing taxes, drafting legal documents) should go through a licensed professional who knows your full situation. Use the Vault to show up to that conversation prepared, not to skip it.
 
+## Which prompt do I start with?
+
+Not sure where to begin? Match your situation:
+
+- Money feels chaotic and you don't know where it's going: start with Category 1, prompt 1.1.
+- You're carrying debt that keeps you up at night: start with Category 2, prompt 2.1.
+- You want more income but don't know where to start: start with Category 3, prompt 3.4.
+- You already have a business idea and need to package it: start with Category 4, prompt 4.1.
+- You want to start investing but feel lost: start with Category 5, prompt 5.1.
+- You're underpaid or about to negotiate something: start with Category 6, prompt 6.1.
+- You've built something and want to protect it: start with Category 7, prompt 7.4.
+
 ---
 
 ## Category 1: Budgeting & Cash Flow
 
 Builds on the Wealth Split framework from The Wealth Architect System (the 50/20/20/10 paycheck breakdown). Start here if you don't know where your money actually goes every month.
+
+**Worked example (prompt 1.1):**
+
+*Prompt used:* "Act as a personal finance coach. My monthly take home pay is $4,200. My fixed bills are rent $1,400, car payment $320, insurance $150, phone $80, subscriptions $45. Using a needs, savings, debt, and freedom percentage breakdown, show me exactly how much should go where, and flag anything in my fixed bills that looks too high for my income."
+
+*Example AI response:* "Based on $4,200 monthly take-home: Needs (50%) = $2,100, your fixed bills total $1,995 which fits with $105 to spare. Savings (20%) = $840. Debt (20%) = $840, redirect toward your highest-interest balance first. Freedom (10%) = $420. One flag: your fixed bills are close to the ceiling of the needs bucket, if rent increases, something else in that category needs to shrink first."
 
 **1.1: Build your split**
 > Act as a personal finance coach. My monthly take home pay is [$amount]. My fixed bills are [list them with amounts]. Using a needs, savings, debt, and freedom percentage breakdown, show me exactly how much should go where, and flag anything in my fixed bills that looks too high for my income.
@@ -65,6 +83,12 @@ Builds on the Wealth Split framework from The Wealth Architect System (the 50/20
 
 Builds on the Debt Freedom Ladder framework from The Wealth Architect System (the 4 step payoff order). Match and interest language stays general here on purpose. Your actual lender terms are the only accurate source for your real numbers.
 
+**Worked example (prompt 2.1):**
+
+*Prompt used:* "Act as a debt payoff strategist. Here are all my debts: Credit Card A $3,200 at 24% APR, min $95; Credit Card B $1,100 at 19% APR, min $35; Car Loan $8,400 at 6% APR, min $310. Using both the avalanche method and the snowball method, show me both payoff orders and tell me which one fits my situation better given that I need quick wins for motivation."
+
+*Example AI response:* "Avalanche order (by interest rate): Credit Card A, then Credit Card B, then Car Loan, this saves the most in total interest. Snowball order (by balance): Credit Card B, then Credit Card A, then Car Loan, this clears your first debt in about 3 months instead of 11. Since you said you need quick wins, snowball fits better here, the motivation from an early win outweighs the extra interest cost. Revisit avalanche once the first card is gone."
+
 **2.1: Build my payoff order**
 > Act as a debt payoff strategist. Here are all my debts: [list each with balance, interest rate, and minimum payment]. Using both the avalanche method (highest interest first) and the snowball method (smallest balance first), show me both payoff orders and tell me which one fits my situation better given that I [describe: need quick wins for motivation / want to save the most on interest].
 
@@ -100,6 +124,12 @@ Builds on the Debt Freedom Ladder framework from The Wealth Architect System (th
 ## Category 3: Income Growth & Side Hustles
 
 Reuses the proven business starting prompts already tested on Instagram, plus new ones for growing what you already have.
+
+**Worked example (prompt 3.4):**
+
+*Prompt used:* "Act as a business advisor. Here are the skills I already have: writing, basic graphic design, organizing events. Here's the time I have available: 6 hours per week. Give me 5 realistic side hustle ideas that fit both, ranked by how fast each one could realistically produce its first dollar."
+
+*Example AI response:* "1. Freelance social media captions for local small businesses, fastest to first dollar since local competition is low. 2. Canva template packs sold on Etsy, slower first sale but scales without your time after setup. 3. Paid event-planning consultations for small weddings and parties, higher price per hour, fewer clients needed. 4. Ghostwriting LinkedIn posts for local business owners, steady recurring income once you land 2 to 3 clients. 5. A simple 'event planning checklist' digital product, lowest effort per sale but needs an audience first. Start with option 1 or 2 since they need the least upfront audience."
 
 **3.1: Find your market** *(from the original AI Prompt Playbook)*
 > Act as a market researcher. I'm starting a [type of business] targeting [audience]. Identify my top 3 competitors, what they do well, where they fall short, and one gap I could fill that they're not addressing.
@@ -137,6 +167,12 @@ Reuses the proven business starting prompts already tested on Instagram, plus ne
 
 Reuses the proven offer and positioning prompts, plus new ones for building the full package around what you sell.
 
+**Worked example (prompt 4.1):**
+
+*Prompt used:* "Act as a pricing and offer strategist. Here's what I'm selling: a 4-week done-with-you Instagram content plan for local service businesses. Build me a value stack, the core offer plus bonuses, and suggest 3 price points with the reasoning behind each."
+
+*Example AI response:* "Core offer: 4 weeks of content calendars plus 2 strategy calls. Bonus 1: a caption swipe file, adds perceived value without extra delivery time. Bonus 2: a posting-schedule template. Three price points: $297 (low-commitment entry, good for early case studies), $497 (the anchor most buyers should land on), $897 (an extra week plus one Reel script, captures buyers who want more done for them)."
+
 **4.1: Build the offer** *(from the original AI Prompt Playbook)*
 > Act as a pricing and offer strategist. Here's what I'm selling: [describe it]. Build me a value stack, the core offer plus bonuses, and suggest 3 price points with the reasoning behind each.
 
@@ -173,6 +209,12 @@ Reuses the proven offer and positioning prompts, plus new ones for building the 
 
 These prompts explain concepts so you understand what you're looking at. They never pick a stock, a fund, or a specific dollar amount to invest. Anything with real money on the line goes through a licensed financial advisor who knows your full situation.
 
+**Worked example (prompt 5.2):**
+
+*Prompt used:* "Act as a financial educator. Using an example of $200 invested monthly at a 7% average annual return over 20 years, show me the math of compound growth step by step so I understand why starting early matters, using this purely as an illustrative example, not a prediction."
+
+*Example AI response:* "At $200/month for 20 years, you'd contribute $48,000 total out of pocket. At an illustrative 7% average annual return, the account could grow to roughly $104,000 by year 20, more than double what was contributed, because each year's growth compounds on the growth from prior years, not just new contributions. The exact number isn't the point, real returns vary and aren't guaranteed. The point is that the growth curve gets steeper in later years, which is why starting now matters more than starting with a bigger amount later."
+
 **5.1: Explain index funds like I'm new**
 > Act as a financial educator. Explain what an index fund is, how it's different from picking individual stocks, and why they're commonly recommended for long term investors, using plain language and no jargon.
 
@@ -206,6 +248,12 @@ These prompts explain concepts so you understand what you're looking at. They ne
 ---
 
 ## Category 6: Career & Income Negotiation
+
+**Worked example (prompt 6.1):**
+
+*Prompt used:* "Act as a career coach. I have a job offer of $68,000 for a marketing coordinator role. My research shows market rate is around $72,000 to $78,000. Help me build a negotiation script, including a specific counter number and how to justify it."
+
+*Example AI response:* "Counter at $75,000, the middle of your researched range, high enough to leave room to move, not so high it reads as unreasonable. Script: 'Thank you for the offer, I'm excited about this role. Based on my research into similar marketing coordinator positions in this market, I was expecting something closer to $75,000. Is there flexibility to get closer to that number?' If they counter below that, ask about a 6-month review tied to specific performance goals as a compromise."
 
 **6.1: Prep for a salary negotiation**
 > Act as a career coach. I have a job offer of [$amount] for [role]. My research shows market rate is around [$amount, or "unclear"]. Help me build a negotiation script, including a specific counter number and how to justify it.
@@ -242,6 +290,12 @@ These prompts explain concepts so you understand what you're looking at. They ne
 ## Category 7: Protecting What You Build
 
 Insurance and estate planning are two of the easiest things to get catastrophically wrong by guessing. These prompts are built to get you organized and informed, then hand you off to a licensed professional, exactly the way this whole category is meant to work.
+
+**Worked example (prompt 7.4):**
+
+*Prompt used:* "Act as an organization consultant. Build me a checklist of the important financial and legal documents a person should have gathered and accessible in one place, so my family wouldn't be scrambling to find things in an emergency."
+
+*Example AI response:* "Checklist: government ID and Social Security documentation, insurance policy numbers and provider contacts (health, life, auto, home or renters), a list of all financial accounts and institutions (not passwords, just where accounts exist), mortgage or lease documents, any existing will or estate documents, a list of monthly bills and how they're paid, and an emergency contact list including your doctor and employer. Store physical copies in one folder and tell one trusted person where it is."
 
 **7.1: Insurance gap check**
 > Act as a financial educator. Here's my current situation: [describe: age, dependents, homeowner or renter, current insurance coverage if known]. Explain in general terms the common types of insurance people in my situation typically need to think about (health, life, disability, property), and what questions I should ask a licensed insurance agent about each.
