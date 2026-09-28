@@ -36,7 +36,9 @@ A dedicated Linktree-style page is still a real future upgrade (adds framing/cop
 
 ## Status
 
-Bio is live, now pointing to the full Gumroad storefront (see Bio link section above). **Real numbers as of 2026-09-28 (PROTON's own screenshot, not an assumption): 3 posts, 0 followers.** Post 1 is posted with a matching Wealth Split graphic. **Posts 2-10 now all have matching graphics built and spelling-verified (2026-09-28)** — text and image are both ready for every post in Weeks 1-2, nothing left to build before scheduling. **Instagram is now connected to Metricool** (Professional account, 2026-09-28) for real automated posting — next step is getting Metricool's own CSV bulk-upload template so this whole batch can be loaded in at once instead of posted one by one. **Post 11 (Vault launch) added 2026-09-28**, see below — copy and CTA ready, carousel images not built yet. **The 30-Day Calendar (Posts 12-41) added 2026-09-28** via JARVIS Command 1 — a planning calendar, not full captions or graphics yet, see below.
+Bio is live, now pointing to the full Gumroad storefront (see Bio link section above). **Real numbers as of 2026-09-28 (PROTON's own screenshot, not an assumption): 3 posts, 0 followers.** Post 1 is posted with a matching Wealth Split graphic. **Posts 2-10 scheduled directly in Metricool 2026-09-28** via the real Metricool MCP connection (`createScheduledPost`, `autoPublish: true` — PROTON's explicit call after being asked, see note below) — Tue 9/29 through Fri 10/9, one per weekday, all at 10am ET, the single best hour across every weekday per real `getBestTimeToPostByNetwork` data pulled the same day (peak value ~5,500-6,700 at 10am vs. roughly half that at 8am or 8pm). Each post carries `isAiGenerated: true` on Instagram's own field, since the graphics are AI-generated — honest disclosure, not optional. A standard 5-hashtag set was added per post at scheduling time since the original captions above didn't specify hashtags; each post's final hashtags are logged next to its graphic link below. **Post 11 (Vault launch) added 2026-09-28**, see below — copy and CTA ready, carousel images not built yet. **The 30-Day Calendar (Posts 12-41) added 2026-09-28** via JARVIS Command 1 — a planning calendar, not full captions or graphics yet, see below.
+
+**Auto-publish decision, logged:** before scheduling, PROTON was asked directly whether Posts 2-10 should auto-publish with no further checkpoint, or require manual approval per post — this matters because it's a live public account, a bigger standing capability than anything else automated so far. PROTON chose auto-publish. Command 6 of JARVIS (new-follower DMs) still gets a human skim before sending, per the existing rule below — that's unaffected by this decision.
 
 ## Week 1 — ready to post
 
@@ -52,6 +54,8 @@ Bio is live, now pointing to the full Gumroad storefront (see Bio link section a
 
 **Graphic (built 2026-09-28, spelling verified):** https://d8j0ntlcm91z4.cloudfront.net/user_3DRitQw0a8l5E8VtiHel0ReRB0I/hf_20260928_163631_7d51b0d2-214b-4c19-92d1-56f3c258b9a9.png
 
+**Scheduled:** Tue 2026-09-29, 10am ET, auto-publish. Hashtags added: #FinancialFreedom #WealthBuilding #PersonalFinance #MoneyMindset #Discipline
+
 **Post 3 (Framework teaser) — The Debt Freedom Ladder**
 > Debt doesn't get smaller because you feel bad about it. It gets smaller because you attack it in the right order.
 > The Debt Freedom Ladder is the exact 4 step sequence. Not a guess, not "just pay whatever's biggest."
@@ -59,11 +63,15 @@ Bio is live, now pointing to the full Gumroad storefront (see Bio link section a
 
 **Graphic (built 2026-09-28, spelling verified):** https://d8j0ntlcm91z4.cloudfront.net/user_3DRitQw0a8l5E8VtiHel0ReRB0I/hf_20260928_163632_8cd37e76-0aae-4935-9a68-6daeb4b36133.png
 
+**Scheduled:** Wed 2026-09-30, 10am ET, auto-publish. Hashtags added: #FinancialFreedom #DebtFree #PersonalFinance #MoneyTips #WealthBuilding
+
 **Post 4 (Identity/aspiration)**
 > There's a version of you that isn't checking their account balance with their stomach in a knot.
 > That version isn't smarter than you. They just started.
 
 **Graphic (built 2026-09-28, spelling verified):** https://d8j0ntlcm91z4.cloudfront.net/user_3DRitQw0a8l5E8VtiHel0ReRB0I/hf_20260928_163632_549e20be-24df-4ad5-9339-6b3db9cfe620.png
+
+**Scheduled:** Thu 2026-10-01, 10am ET, auto-publish. Hashtags added: #FinancialFreedom #WealthBuilding #PersonalFinance #MoneyMindset #Motivation
 
 **Post 5 (Framework teaser) — The Order of Operations**
 > Save first or pay off debt first? Invest or build the emergency fund first?
@@ -71,6 +79,8 @@ Bio is live, now pointing to the full Gumroad storefront (see Bio link section a
 > Link in bio.
 
 **Graphic (built 2026-09-28, spelling verified):** https://d8j0ntlcm91z4.cloudfront.net/user_3DRitQw0a8l5E8VtiHel0ReRB0I/hf_20260928_163632_3d787d0e-b922-41a6-9e6b-3707492fa9db.png
+
+**Scheduled:** Fri 2026-10-02, 10am ET, auto-publish. Hashtags added: #FinancialFreedom #PersonalFinance #MoneyTips #WealthBuilding #Investing
 
 ## Week 2 — ready to post
 
@@ -83,11 +93,15 @@ Bio link is resolved, so this batch includes a CTA post (1-in-5, per the growth 
 
 **Graphic (built 2026-09-28, spelling verified):** https://d8j0ntlcm91z4.cloudfront.net/user_3DRitQw0a8l5E8VtiHel0ReRB0I/hf_20260928_163632_56e5ac77-a5f8-442c-8a9e-346f5bd751ea.png
 
+**Scheduled:** Mon 2026-10-05, 10am ET, auto-publish. Hashtags added: #FinancialFreedom #PersonalFinance #MoneyHabits #WealthBuilding #Discipline
+
 **Post 7 (Mindset)**
 > You don't need a better plan. Most people already have one.
 > What you need is to still be doing it on the day you don't feel like it. That's the entire game, and almost nobody says it out loud.
 
 **Graphic (built 2026-09-28, spelling verified):** https://d8j0ntlcm91z4.cloudfront.net/user_3DRitQw0a8l5E8VtiHel0ReRB0I/hf_20260928_163632_f518e827-5a52-4c69-b4a2-f4e12ad67a54.png
+
+**Scheduled:** Tue 2026-10-06, 10am ET, auto-publish. Hashtags added: #FinancialFreedom #WealthBuilding #PersonalFinance #MoneyMindset #Discipline
 
 **Post 8 (Framework teaser) — Money Myths That Keep People Broke**
 > Some of what you believe about money, you never actually checked. You just repeated it because everyone else did.
@@ -96,11 +110,15 @@ Bio link is resolved, so this batch includes a CTA post (1-in-5, per the growth 
 
 **Graphic (built 2026-09-28, spelling verified):** https://d8j0ntlcm91z4.cloudfront.net/user_3DRitQw0a8l5E8VtiHel0ReRB0I/hf_20260928_163632_6f4a4d3c-dc71-4525-a369-b308358e4617.png
 
+**Scheduled:** Wed 2026-10-07, 10am ET, auto-publish. Hashtags added: #FinancialFreedom #PersonalFinance #MoneyMyths #WealthBuilding #MoneyTips
+
 **Post 9 (Identity/aspiration)**
 > Nobody is born knowing how to manage money. The people who look like they have it figured out just started earlier than you're starting now.
 > Today counts as early enough.
 
 **Graphic (built 2026-09-28, spelling verified):** https://d8j0ntlcm91z4.cloudfront.net/user_3DRitQw0a8l5E8VtiHel0ReRB0I/hf_20260928_163633_a8c3625b-d4b2-4c0a-bfb1-3b98a7057d20.png
+
+**Scheduled:** Thu 2026-10-08, 10am ET, auto-publish. Hashtags added: #FinancialFreedom #WealthBuilding #PersonalFinance #MoneyMindset #Motivation
 
 **Post 10 (Offer/CTA)**
 > Most guides stop at telling you what to do.
@@ -108,6 +126,8 @@ Bio link is resolved, so this batch includes a CTA post (1-in-5, per the growth 
 > Link in bio.
 
 **Graphic (built 2026-09-28, spelling verified):** https://d8j0ntlcm91z4.cloudfront.net/user_3DRitQw0a8l5E8VtiHel0ReRB0I/hf_20260928_163633_5679b567-7d53-489a-946d-b9a766c11377.png
+
+**Scheduled:** Fri 2026-10-09, 10am ET, auto-publish. Hashtags added: #FinancialFreedom #WealthBuilding #PersonalFinance #MoneyTips #AIprompts
 
 ## Post 11 (Offer/CTA) — The Generational Wealth Prompt Vault launch — ready to post
 
