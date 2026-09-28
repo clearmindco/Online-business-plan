@@ -22,13 +22,15 @@ Built per `org/operating-model.md`'s Content/Creator chain (`personal-brand` →
 
 Account is brand new (1 post live) — front-load consistency to build initial signal. **5 posts/week to start** (Mon-Fri), mixing carousels and single-image posts. This is the Slight Edge rule in practice: the daily discipline of posting is what compounds, not any single post.
 
-## Bio link — RESOLVED
+## Bio link — RESOLVED, but the queued trigger just fired
 
-Fixed to the live Gumroad link: `https://arresidential.gumroad.com/l/fogblj`. CTA posts (Pillar 4, and the "link in bio" lines in Posts 3 and 5 below) are unblocked. A Linktree-style page is queued in `org/agent-team.md`'s Backlog for once a second real destination (TikTok Shop, etc.) is live — not needed for a single link.
+Fixed to the live Gumroad link: `https://thewealtharchitecthq.gumroad.com/l/fogblj` (Wealth Architect System, $5.99 entry guide). CTA posts (Pillar 4, and the "link in bio" lines in Posts 3 and 5 below) are unblocked.
+
+**The Linktree-style page was queued for "once a second real destination is live" — that condition is now true.** The Generational Wealth Prompt Vault ($27) went live 2026-09-28 at `https://thewealtharchitecthq.gumroad.com/l/qpvbsl`, so there are now 2 real Gumroad links this account needs to point to. Decision for now: keep the single bio link on the $5.99 entry guide (correct funnel logic, cheapest and widest top-of-funnel stays the one-click destination) and drive the Vault through the comment-to-DM mechanic instead of fighting for bio-link space. Build the actual link-in-bio page once a third destination shows up or once Vault traffic through comments proves heavy enough to be worth a dedicated page.
 
 ## Status
 
-Bio is live: "Financial freedom isn't luck. It's discipline, repeated daily. Link in the bio." with the real Gumroad link. **Post 1 is posted** with a matching Wealth Split graphic (navy/gold, on-brand). Post 2 status unconfirmed as of PULSE's last two check-ins. **Week 2 batch (Posts 6-10) added 2026-09-27** — ready for PROTON's go-ahead before any matching visuals get built.
+Bio is live: "Financial freedom isn't luck. It's discipline, repeated daily. Link in the bio." with the entry-guide Gumroad link. **Real numbers as of 2026-09-28 (PROTON's own screenshot, not an assumption): 3 posts, 0 followers.** Post 1 is posted with a matching Wealth Split graphic (navy/gold, on-brand). Post 2 status unconfirmed as of PULSE's last check-ins. **Week 2 batch (Posts 6-10) added 2026-09-27** — ready for PROTON's go-ahead before any matching visuals get built. **Post 11 (Vault launch) added 2026-09-28**, see below — ready to post any time, doesn't need to wait on Posts 2-10 confirming first.
 
 ## Week 1 — ready to post
 
@@ -82,6 +84,32 @@ Bio link is resolved, so this batch includes a CTA post (1-in-5, per the growth 
 > Most guides stop at telling you what to do.
 > The Wealth Architect System includes an AI prompt built to turn the whole framework into your own personal plan, not just a chapter you read once and forget.
 > Link in bio.
+
+## Post 11 (Offer/CTA) — The Generational Wealth Prompt Vault launch — ready to post
+
+Comment-to-DM format (proven mechanic, see below), reusing 2 of the Vault's own worked examples as proof-of-value teasers so the swipe itself demonstrates the product instead of just describing it.
+
+**Slide 1 (hook):** "70 AI PROMPTS THAT ACTUALLY BUILD WEALTH." Subtext: "Swipe to see exactly what you get."
+
+**Slide 2:** "7 CATEGORIES. ONE VAULT." List: Budgeting & Cash Flow · Debt Payoff · Income Growth & Side Hustles · Business & Offer Building · Investing Basics · Career & Income Negotiation · Protecting What You Build.
+
+**Slide 3 (worked example):** Header "REAL EXAMPLE." Prompt box: "Act as a personal finance coach. My monthly take home pay is $4,200. My fixed bills are rent $1,400, car payment $320, insurance $150, phone $80, subscriptions $45..." Response box: "Needs (50%) = $2,100. Savings (20%) = $840. Debt (20%) = $840. Freedom (10%) = $420. Your fixed bills are close to the ceiling of the needs bucket..."
+
+**Slide 4 (worked example):** Header "REAL EXAMPLE." Prompt box: "Act as a business advisor. Here are the skills I already have: writing, basic graphic design, organizing events. Here's the time I have available: 6 hours per week..." Response box: "1. Freelance social media captions for local small businesses, fastest to first dollar. 2. Canva template packs sold on Etsy..."
+
+**Slide 5:** "Every prompt is fill-in-the-blank. No guessing what to type, no generic AI answers."
+
+**Slide 6 (closing, CTA):** "Comment 'VAULT' and I'll send you the link." Small subtext: "$27, instant download."
+
+**Caption:**
+> 70 AI prompts. 7 categories. One vault.
+> Budgeting, debt payoff, income growth, building an offer, investing basics, negotiating pay, protecting what you build.
+> Fill in the brackets, get a real answer built around your numbers.
+> Comment VAULT and I'll send you the link.
+
+**Hashtags (5 max):** #AIprompts #ChatGPTprompts #FinancialFreedom #WealthBuilding #PersonalFinance
+
+**Setup required before posting:** turn on Instagram's native "Automated replies to comments" (Professional Dashboard → Settings → Automations) so a comment containing "VAULT" auto-DMs the Gumroad link — this is what makes the comment-to-DM mechanic actually deliver without manual replies. Set the trigger keyword, the auto-DM message, and test it once before the post goes live.
 
 ## First AI Prompt Playbook carousel — ready to build
 
