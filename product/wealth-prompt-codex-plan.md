@@ -55,6 +55,8 @@ PROTON's instinct ("every platform would be good") is directionally right but Gu
 
 Both had their baked-in title text visually verified correct before use (no spelling errors), per the standing spelling-check rule.
 
-**Final PDF (FORGE):** 24 pages, Arial body font (matches the typography standard already used on The Wealth Architect System), navy chapter-header bands per category, full-bleed branded cover — download: https://to.adobe.com/AvvbWg9qlicTuYT6KHBWtSBXVqGF
+**Final PDF (FORGE):** 17 pages, Arial body font (matches the typography standard already used on The Wealth Architect System), navy chapter-header bands per category, full-bleed branded cover — download: https://to.adobe.com/Gsz0qYRFpDDlX5tKpcNLp40CAi8e
+
+**Revision (2026-09-28, PROTON's catch):** the first version had two bugs PROTON found on his phone: the cover title was cropped at the top (fixed by switching the background image from `cover` to `contain` sizing so it can never crop), and prompt headings were getting orphaned at the bottom of a page while their prompt box flowed to the next page (fixed by wrapping every one of the 70 prompts in a `page-break-inside:avoid` block so heading and box always move together). Page count dropped 24 → 17 once the orphan-created blank gaps went away.
 
 **Next step (PROTON):** review the PDF and cover art, then the one manual step per the standing no-autonomous-publish rule — upload to Gumroad. The manuscript itself is a plain PDF, so the same file works for any other platform (Etsy digital downloads, Payhip, etc.) once Gumroad is proven.
