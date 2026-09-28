@@ -47,4 +47,14 @@ PROTON's instinct ("every platform would be good") is directionally right but Gu
 
 ## Status
 
-**Name confirmed: The Generational Wealth Prompt Vault.** Categories and $27 launch price still stand as proposed above unless PROTON says otherwise. Next step: SCRIBE starts drafting once PROTON gives the final go-ahead on categories/price.
+**Built.** PROTON gave the go-ahead on categories and the $27 launch price (2026-09-28). SCRIBE drafted all 70 prompts across the 7 categories in `product/generational-wealth-prompt-vault.md`, WARDEN passed it (no invented stats, investing category stays education-only with no stock/fund picks, disclaimer present, house style applied), PRISM generated the cover art, and FORGE assembled the final PDF.
+
+**Cover art (PRISM):** two assets generated in the navy (#0b1220) / gold (#d4af7a) brand identity, built from a mountain-summit-at-sunrise concept (reaching the summit = reaching financial freedom), matching a reference PROTON sent of a competitor's book-ad mockup format but with our own brand, no other brand's marks:
+- **Gumroad/marketing listing image** (3D hardcover book mockup on a desk): https://d8j0ntlcm91z4.cloudfront.net/user_3DRitQw0a8l5E8VtiHel0ReRB0I/hf_20260928_011233_ea2971c6-a0f8-4271-8ac6-249e00136534.png
+- **PDF interior cover** (flat full-bleed art, same concept): https://d8j0ntlcm91z4.cloudfront.net/user_3DRitQw0a8l5E8VtiHel0ReRB0I/hf_20260928_011312_5f1f43ed-1de8-4977-8cf4-51781862feb8.png
+
+Both had their baked-in title text visually verified correct before use (no spelling errors), per the standing spelling-check rule.
+
+**Final PDF (FORGE):** 24 pages, Arial body font (matches the typography standard already used on The Wealth Architect System), navy chapter-header bands per category, full-bleed branded cover — download: https://to.adobe.com/AvvbWg9qlicTuYT6KHBWtSBXVqGF
+
+**Next step (PROTON):** review the PDF and cover art, then the one manual step per the standing no-autonomous-publish rule — upload to Gumroad. The manuscript itself is a plain PDF, so the same file works for any other platform (Etsy digital downloads, Payhip, etc.) once Gumroad is proven.

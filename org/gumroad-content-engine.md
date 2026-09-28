@@ -43,7 +43,7 @@ Pull from the top. Add new ideas to the bottom instead of losing them in convers
 
 ## Premium tier (separate from the queue above — an upgrade product, not another entry guide)
 
-**The Generational Wealth Prompt Vault** (PROTON's idea, added 2026-09-27, named 2026-09-27) — full plan in `product/wealth-prompt-codex-plan.md`. A curated AI prompt library for building wealth, positioned as the upgrade from the $5.99 entry guide. Validated against 2 real existing Gumroad competitors ($37-47 price band). Status: name confirmed, waiting on PROTON's final go-ahead on categories/price before SCRIBE starts drafting.
+**The Generational Wealth Prompt Vault** (PROTON's idea, added 2026-09-27, named 2026-09-27, built 2026-09-28) — full plan in `product/wealth-prompt-codex-plan.md`, manuscript in `product/generational-wealth-prompt-vault.md`. A curated AI prompt library for building wealth (70 prompts, 7 categories), positioned as the upgrade from the $5.99 entry guide. Validated against 2 real existing Gumroad competitors ($37-47 price band); launching at $27. Status: **content, cover art, and final 24-page branded PDF complete** (see `product/wealth-prompt-codex-plan.md`'s Status section for both cover links and the PDF download). Waiting on PROTON's upload (the one manual publish step) before it's live.
 
 ## Status reporting
 
