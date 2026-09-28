@@ -36,7 +36,7 @@ A dedicated Linktree-style page is still a real future upgrade (adds framing/cop
 
 ## Status
 
-Bio is live: "Financial freedom isn't luck. It's discipline, repeated daily. Link in the bio." with the entry-guide Gumroad link. **Real numbers as of 2026-09-28 (PROTON's own screenshot, not an assumption): 3 posts, 0 followers.** Post 1 is posted with a matching Wealth Split graphic (navy/gold, on-brand). Post 2 status unconfirmed as of PULSE's last check-ins. **Week 2 batch (Posts 6-10) added 2026-09-27** — ready for PROTON's go-ahead before any matching visuals get built. **Post 11 (Vault launch) added 2026-09-28**, see below — ready to post any time, doesn't need to wait on Posts 2-10 confirming first. **The 30-Day Calendar (Posts 12-41) added 2026-09-28** via JARVIS Command 1, run natively in this session — a planning calendar, not full captions yet, see below.
+Bio is live, now pointing to the full Gumroad storefront (see Bio link section above). **Real numbers as of 2026-09-28 (PROTON's own screenshot, not an assumption): 3 posts, 0 followers.** Post 1 is posted with a matching Wealth Split graphic. **Posts 2-10 now all have matching graphics built and spelling-verified (2026-09-28)** — text and image are both ready for every post in Weeks 1-2, nothing left to build before scheduling. **Instagram is now connected to Metricool** (Professional account, 2026-09-28) for real automated posting — next step is getting Metricool's own CSV bulk-upload template so this whole batch can be loaded in at once instead of posted one by one. **Post 11 (Vault launch) added 2026-09-28**, see below — copy and CTA ready, carousel images not built yet. **The 30-Day Calendar (Posts 12-41) added 2026-09-28** via JARVIS Command 1 — a planning calendar, not full captions or graphics yet, see below.
 
 ## Week 1 — ready to post
 
@@ -50,19 +50,27 @@ Bio is live: "Financial freedom isn't luck. It's discipline, repeated daily. Lin
 > Nobody makes one good decision and ends up free.
 > It's the small one you make today, repeated, that decides which direction you're actually going. Even on the days it doesn't feel like it's doing anything.
 
+**Graphic (built 2026-09-28, spelling verified):** https://d8j0ntlcm91z4.cloudfront.net/user_3DRitQw0a8l5E8VtiHel0ReRB0I/hf_20260928_163631_7d51b0d2-214b-4c19-92d1-56f3c258b9a9.png
+
 **Post 3 (Framework teaser) — The Debt Freedom Ladder**
 > Debt doesn't get smaller because you feel bad about it. It gets smaller because you attack it in the right order.
 > The Debt Freedom Ladder is the exact 4 step sequence. Not a guess, not "just pay whatever's biggest."
 > Full breakdown in The Wealth Architect System. Link in bio.
 
+**Graphic (built 2026-09-28, spelling verified):** https://d8j0ntlcm91z4.cloudfront.net/user_3DRitQw0a8l5E8VtiHel0ReRB0I/hf_20260928_163632_8cd37e76-0aae-4935-9a68-6daeb4b36133.png
+
 **Post 4 (Identity/aspiration)**
 > There's a version of you that isn't checking their account balance with their stomach in a knot.
 > That version isn't smarter than you. They just started.
+
+**Graphic (built 2026-09-28, spelling verified):** https://d8j0ntlcm91z4.cloudfront.net/user_3DRitQw0a8l5E8VtiHel0ReRB0I/hf_20260928_163632_549e20be-24df-4ad5-9339-6b3db9cfe620.png
 
 **Post 5 (Framework teaser) — The Order of Operations**
 > Save first or pay off debt first? Invest or build the emergency fund first?
 > Most people guess. The Wealth Architect System lays out the actual 8 step order, so you can stop guessing and start executing.
 > Link in bio.
+
+**Graphic (built 2026-09-28, spelling verified):** https://d8j0ntlcm91z4.cloudfront.net/user_3DRitQw0a8l5E8VtiHel0ReRB0I/hf_20260928_163632_3d787d0e-b922-41a6-9e6b-3707492fa9db.png
 
 ## Week 2 — ready to post
 
@@ -73,23 +81,33 @@ Bio link is resolved, so this batch includes a CTA post (1-in-5, per the growth 
 > Chapter 5 of The Wealth Architect System isn't more theory. It's the habits that make everything before it actually stick.
 > Link in bio.
 
+**Graphic (built 2026-09-28, spelling verified):** https://d8j0ntlcm91z4.cloudfront.net/user_3DRitQw0a8l5E8VtiHel0ReRB0I/hf_20260928_163632_56e5ac77-a5f8-442c-8a9e-346f5bd751ea.png
+
 **Post 7 (Mindset)**
 > You don't need a better plan. Most people already have one.
 > What you need is to still be doing it on the day you don't feel like it. That's the entire game, and almost nobody says it out loud.
+
+**Graphic (built 2026-09-28, spelling verified):** https://d8j0ntlcm91z4.cloudfront.net/user_3DRitQw0a8l5E8VtiHel0ReRB0I/hf_20260928_163632_f518e827-5a52-4c69-b4a2-f4e12ad67a54.png
 
 **Post 8 (Framework teaser) — Money Myths That Keep People Broke**
 > Some of what you believe about money, you never actually checked. You just repeated it because everyone else did.
 > Chapter 6 goes through the myths one at a time and says plainly which ones are actually true.
 > Link in bio.
 
+**Graphic (built 2026-09-28, spelling verified):** https://d8j0ntlcm91z4.cloudfront.net/user_3DRitQw0a8l5E8VtiHel0ReRB0I/hf_20260928_163632_6f4a4d3c-dc71-4525-a369-b308358e4617.png
+
 **Post 9 (Identity/aspiration)**
 > Nobody is born knowing how to manage money. The people who look like they have it figured out just started earlier than you're starting now.
 > Today counts as early enough.
+
+**Graphic (built 2026-09-28, spelling verified):** https://d8j0ntlcm91z4.cloudfront.net/user_3DRitQw0a8l5E8VtiHel0ReRB0I/hf_20260928_163633_a8c3625b-d4b2-4c0a-bfb1-3b98a7057d20.png
 
 **Post 10 (Offer/CTA)**
 > Most guides stop at telling you what to do.
 > The Wealth Architect System includes an AI prompt built to turn the whole framework into your own personal plan, not just a chapter you read once and forget.
 > Link in bio.
+
+**Graphic (built 2026-09-28, spelling verified):** https://d8j0ntlcm91z4.cloudfront.net/user_3DRitQw0a8l5E8VtiHel0ReRB0I/hf_20260928_163633_5679b567-7d53-489a-946d-b9a766c11377.png
 
 ## Post 11 (Offer/CTA) — The Generational Wealth Prompt Vault launch — ready to post
 
