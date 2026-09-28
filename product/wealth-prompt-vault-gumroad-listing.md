@@ -43,6 +43,8 @@ This is the AI companion to The Wealth Architect System. If you've got the guide
 
 Not financial, legal, or tax advice. For education and organization purposes only. Anything with real financial stakes should go through a licensed professional. This gets you to that conversation prepared, not to skip it.
 
+Instant digital download — all sales final, no refunds. Since this is delivered immediately as a downloadable PDF, there's no way to "return" it once it's in your hands.
+
 Get instant access, $27. Delivered as a PDF, works on any device.
 ```
 
@@ -61,7 +63,7 @@ Business & Money (fall back to Self Improvement if that category isn't available
 Final PDF: https://to.adobe.com/568d8hdaMHRDYltUpf13XXn7Mjxf
 
 ## Refund policy
-No refunds, all sales final — matches the standing rule already set on The Wealth Architect System's listing (`product/offer-and-sales-page.md`'s Legal flag section). Instant-download digital product, confidence comes from content quality, not a safety net.
+**Set the Gumroad refund policy setting to "No refunds."** Matches the standing rule already set on The Wealth Architect System's listing (`product/offer-and-sales-page.md`'s Legal flag section) — instant-download digital product, confidence comes from content quality, not a safety net. Also stated in the description itself (added 2026-09-28, PROTON's request) so it's disclosed before checkout, not discovered after a complaint. Note: Gumroad may still process a cardholder dispute/chargeback regardless of this setting — "no refunds" reduces voluntary refund requests, it doesn't eliminate chargebacks.
 
 ## Legal flag (unchanged from the sister product's rule)
 Sell through the LLC, not personally. The "not financial, tax, or legal advice" disclaimer is already in the description above and in the PDF itself. If this moves past a handful of sales, run it past `legal-advisor` for a proper ToS/privacy policy before scaling paid traffic to it.
