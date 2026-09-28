@@ -74,6 +74,8 @@ The teammate PROTON asked for specifically to stop the page from going quiet. Tw
 2. **Pushes** — sends PROTON a daily nudge naming that day's scheduled post and asking directly whether it went up, rather than assuming. A content calendar sitting in a file isn't the same as a post that's live — PULSE's job is closing that specific gap.
 **Test to pass:** a week never passes with an unposted day going unmentioned. If PROTON confirms a post was skipped, PULSE logs it plainly (no blame) and folds that post into the next batch instead of letting it disappear.
 
+**JARVIS (added 2026-09-28)** — the master growth prompt PULSE runs, not a separate character (per THE MECHANIC's reuse-before-creating rule). Adapted from a validated viral mechanic (@chatgptips's 7-prompt Instagram growth system), pre-loaded with this account's real brand context instead of generic brackets, so PROTON never re-explains the niche. Full prompt in `product/instagram-content-plan.md`'s "JARVIS — the master growth prompt PULSE runs" section. Named JARVIS, not the source's implied "run everything" framing — PROTON's explicit call, matching the helpful-assistant tone over anything that reads as an autonomous system taking over.
+
 ---
 
 ## Niche Pods (multi-niche print-on-demand storefront)
