@@ -26,7 +26,9 @@ This is not a vague mission statement nobody reads. Every agent role in the pipe
 
 ## Real connectors now available (confirmed 2026-09-30) — Gmail and Notion
 
-Both are genuinely connected to PROTON's account, not hypothetical. **Gmail can actually send, reply, and forward** — not just draft, despite older assumptions to the contrary. That makes the existing no-autonomous-publish discipline load-bearing here too: any Gmail use in this repo is draft-only unless PROTON explicitly asks for a send, the same standard as Gumroad publishing. Notion is used as a real external surface (e.g. the morning-brief skill writes there) — private/draft pages by default, never shared or moved without PROTON naming a destination.
+Both are genuinely connected to PROTON's account, not hypothetical. **Gmail can actually send, reply, and forward** — not just draft, despite older assumptions to the contrary. That makes the existing no-autonomous-publish discipline load-bearing here too: any Gmail use in this repo is draft-only unless PROTON explicitly asks for a send, the same standard as Gumroad publishing.
+
+**Notion boundary — permanent, locked 2026-09-30, PROTON's explicit instruction:** PROTON's Notion account holds other, separate businesses that have nothing to do with this repo. Claude never searches, lists, fetches, reads, edits, or otherwise interacts with any Notion page or database beyond what this repo creates for itself. Every Notion write from this repo uses `creation_mode: draft` (a private, standalone page, never placed under an existing parent) unless PROTON explicitly names a specific destination page that is already confirmed to belong to this business. Never call a Notion search/fetch/list action "just to check" or "just to see what's there" — there is no legitimate reason for this repo's work to touch anything outside pages it created itself. This is a hard boundary, not a default that yields to convenience.
 
 ## How Claude talks to PROTON (standing rule, added 2026-09-28)
 
