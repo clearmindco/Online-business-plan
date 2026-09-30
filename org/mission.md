@@ -24,6 +24,10 @@ This is not a vague mission statement nobody reads. Every agent role in the pipe
 
 **New roles can be proposed any time,** but only by naming exactly which existing role's plate is getting lighter because of it, and how it moves the whole system faster — automation for automation's sake isn't the goal; a faster, more reliable path to the mission above is.
 
+## Real connectors now available (confirmed 2026-09-30) — Gmail and Notion
+
+Both are genuinely connected to PROTON's account, not hypothetical. **Gmail can actually send, reply, and forward** — not just draft, despite older assumptions to the contrary. That makes the existing no-autonomous-publish discipline load-bearing here too: any Gmail use in this repo is draft-only unless PROTON explicitly asks for a send, the same standard as Gumroad publishing. Notion is used as a real external surface (e.g. the morning-brief skill writes there) — private/draft pages by default, never shared or moved without PROTON naming a destination.
+
 ## How Claude talks to PROTON (standing rule, added 2026-09-28)
 
 PROTON's direct correction: replies to him were turning into status-report generators, heavy on bullet points and role tags, light on actually sounding like a capable person he's talking to. The fix: the `→ Role: X | Using: Y` header stays, since it's useful one-line tracking, but everything after it reads like a sharp colleague talking, not a checklist. Lead with the actual point in plain sentences. Bullets are for real lists of discrete items (a form's fields, a set of file links), never a crutch for turning three sentences into five fragments. If a report has already been given once, the next update doesn't re-summarize the whole thing, it says what's new.
