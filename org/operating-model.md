@@ -54,7 +54,7 @@ Chain: `personal-brand` → `content-strategy` → `social-content` → `lead-ma
 
 **The Gumroad Content Engine — ACTIVE.** Per PROTON's request to have Claude working continuously in the background rather than one-off per drop, a standing SOP now runs the whole pipeline (topic → research/write → design → 2-pass QA → package) on a weekly recurring trigger, detailed in `org/gumroad-content-engine.md`. PROTON still does the final Gumroad upload click by design — this satisfies both his request for continuous output and `org/mission.md`'s no-autonomous-publish safeguard. Cadence starts weekly with an explicit path to daily once quality-at-speed is proven with real data, not a guess. Next topic in motion: **The Savings Architect.**
 
-**Faceless Instagram — LIVE.** Handle: `thewealtharchitect`. Bio: "Raised by pain. Guided by discipline." 1 post live. **Open item:** bio link currently points to an old personal TikTok (`@brokensaintofficial`) — PROTON confirmed this is a leftover from a page he's repurposing and needs to be swapped to a Wealth Architect destination (Gumroad link or a real landing page). HERALD should flag this again if it's still unfixed by the time real traffic starts hitting the profile.
+**Faceless Instagram — LIVE.** Handle: `thewealtharchitect`. Bio: "Raised by pain. Guided by discipline." **Bio link resolved 2026-09-28** — now points to the full Gumroad storefront (`https://thewealtharchitecthq.gumroad.com`), not the old personal TikTok leftover. Full detail and history in `product/instagram-content-plan.md`'s "Bio link" section.
 
 ---
 

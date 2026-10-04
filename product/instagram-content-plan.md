@@ -206,6 +206,45 @@ Run directly in this session, not pasted into an external tool — full account 
 
 **Next step:** once PROTON confirms Posts 2-10 are actually posting (per PULSE's daily nudges), this calendar is ready to convert into full captions week by week, same process as Weeks 1-2.
 
+## Week 3 — ready to post
+
+First real conversion of the 30-Day Calendar's planning rows (Posts 12-16) into full captions, per that section's own "next step" note. Bio link is confirmed live on the storefront (see Bio link section above — the stale "unresolved" note in `org/operating-model.md` has been corrected to match), so this batch keeps its one CTA post per the 1-in-5 rule.
+
+**Post 12 (Framework teaser) — Where Money Grows**
+> Saving is not the same as growing.
+> Chapter 3 lays it out plainly: an emergency fund first, then retirement accounts, index funds, real estate, and your own skills. Five places money actually grows, not just sits.
+> Full breakdown in The Wealth Architect System. Link in bio.
+
+**Scheduled:** Mon 2026-10-12, 10am ET, auto-publish. Hashtags: #FinancialFreedom #WealthBuilding #PersonalFinance #MoneyTips #Investing
+
+**Post 13 (Mindset) — The comparison trap**
+> You're not behind. You're comparing lap times with someone who started the race years ago.
+> Everyone's highlight reel only shows what's ahead of you. The gap closes with reps, not comparison.
+
+**Scheduled:** Tue 2026-10-13, 10am ET, auto-publish. Hashtags: #FinancialFreedom #MoneyMindset #PersonalFinance #WealthBuilding #Discipline
+
+**Post 14 (Vault-category teaser) — Budgeting (Vault 1.1)**
+> This prompt built my paycheck split in 30 seconds.
+> "My take-home is $4,200/month. Using a needs, savings, debt, and freedom breakdown, show me exactly how much should go where." The AI's answer: Needs $2,100, Savings $840, Debt $840, Freedom $420, plus a flag if your fixed bills are eating too much of the needs bucket.
+> One prompt. Your real numbers. Comment VAULT and I'll send you the link.
+
+**Scheduled:** Wed 2026-10-14, 10am ET, auto-publish. Hashtags: #AIprompts #Budgeting #FinancialFreedom #PersonalFinance #MoneyTips
+
+**Post 15 (Identity/aspiration) — The version of you with a plan**
+> Same paycheck, two people. Only one of them isn't stressed on the 25th.
+> The difference isn't the income. It's whether there's a plan behind it.
+
+**Scheduled:** Thu 2026-10-15, 10am ET, auto-publish. Hashtags: #FinancialFreedom #WealthBuilding #PersonalFinance #MoneyMindset #Motivation
+
+**Post 16 (Offer/CTA) — The Generational Wealth Prompt Vault**
+> 70 prompts. 7 categories. Zero guesswork.
+> This is AI actually put to work on your money, not just writing your captions.
+> Comment VAULT and I'll send you the link. $27, instant download.
+
+**Scheduled:** Fri 2026-10-16, 10am ET, auto-publish. Hashtags: #AIprompts #FinancialFreedom #WealthBuilding #PersonalFinance #ChatGPTprompts
+
+**Not done yet:** matching graphics for Posts 12-16 — PRISM/REEL's job once PROTON gives the go-ahead on these captions, same staged order as every batch before this one. Nothing scheduled in Metricool yet; these are drafted and ready, not yet entered.
+
 ## First AI Prompt Playbook carousel — ready to build
 
 **Title slide:** "5 AI Prompts That Can Actually Start Your Business Today"
