@@ -103,7 +103,7 @@ Every method PROTON's named gets tracked here so nothing gets lost, without spin
 
 - **Children's books / coloring books** — future Content/Creator line, same FORGE/markdown-to-PDF recipe as the guides, illustrated by PRISM's team once queued.
 - **Amazon storefront** — a new PEDDLER channel alongside Gumroad/Etsy/Shopify.
-- **Affiliate programs** — promoting other companies' products for commission; a genuinely different income model (no product to design/ship at all) — will get its own room and name once actually queued, not before.
+- ~~**Affiliate programs**~~ — **QUEUED 2026-10-05, PROTON's explicit call.** Promoting other companies' products for commission, a genuinely different income model (no product to design/ship). Real signal checked before queuing: SoFi ($100 CPA per qualified lead), Acorns ($15-25/signup, 30-day cookie), and Credit Karma ($7/signup, free product so high conversion) are named as the programs that actually fit a personal-finance audience like this one. ([Backlinko](https://backlinko.com/financial-affiliate-programs), [Realize](https://realize.com/marketing-hub/financial-services-affiliate-programs/)) SCOUT's first task: apply to these 3 and confirm real approval/terms before any link goes into a post — no character/room name gets invented until there's an actual accepted affiliate account to run.
 - **Blogs** — a REEL/SCRIBE channel alongside TikTok/YouTube Shorts, driving traffic back to whatever's live.
 - **Linktree-style link-in-bio page** — PROTON's idea, correct call once there are 2+ live destinations (Gumroad now, TikTok Shop once approved, future POD stores) to send Instagram traffic to. Not worth building for a single link — HERALD builds it the moment a second real destination goes live.
 - **Instagram direct auto-posting** — no connector currently available. Real path: a Business/Creator IG account wired to Meta's Graph API (a build on par with the Gumroad OAuth work, THE MECHANIC's call once other automation has proven itself). Faster interim path, no new engineering: PROTON connects a third-party scheduler (Buffer/Later/Metricool) to the IG account and batch-uploads PULSE's weekly posts there for automatic daily drip-posting.
@@ -180,6 +180,22 @@ You greenlit this directly, so it's live as a research/design initiative now, at
 - **PEDDLER** sets up the actual storefront/listings once designs exist
 
 Per the decision rule below, **this stays in research/design phase — no real spend (sample orders, ads, paid tools) — until you explicitly approve moving to real money.** That's a complex decision, not a simple one.
+
+---
+
+## New initiative: AI Tools / SaaS — registered under the SaaS & AI Tools team (ACTIVATED 2026-10-05)
+
+PROTON's explicit call: this BU was sitting dormant (see `org/agent-status.md`) and is now live as a research/design initiative, zero spend, same staged rule as every other room.
+
+**Real signal checked before building anything:** SMB AI adoption rose from 22% (2024) to 38% (2026) — most small businesses still haven't adopted. Productized AI agent packages (not custom builds) land at $1,800-$4,500/month, and the actual margin math only works at two ends: high-volume productized offers with near-zero delivery cost, or deep specialization at $10K+/month. Custom builds for budget-conscious SMBs is "where agencies quietly die." ([Taskip](https://taskip.net/ai-automation-agency-pricing/), [AllAble](https://www.allable.ai/blog/ai-automation-agency/))
+
+**What this means for the actual build:** the productized, high-volume end is the right lane for a small operation, not custom agency work. The concrete idea on the table: package the exact pattern this repo already runs (a narrow-task agent — research, content drafting, QA checks — on a fixed cadence) as a sellable tool for other solo creators/small businesses, not a bespoke build per client.
+
+- **SCOUT** researches what's actually selling in this space right now — specific competitor tools, their price points, and what they promise vs. what they actually deliver, before anyone designs or writes anything
+- **THE MECHANIC** scopes what's technically realistic to package and sell vs. what only works inside this specific session's tool access
+- **CHIEF** holds this at research-phase until there's a specific, named first product to bring back for approval
+
+No spend, no sales page, no building yet — this is the research pass that has to happen before anything else, same "research first, beat what's winning" standard as every other room.
 
 ---
 

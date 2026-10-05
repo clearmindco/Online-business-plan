@@ -22,7 +22,7 @@ This file exists because a real gap surfaced 2026-09-30: every character's curre
 | WARDEN | Idle | Last QA pass caught chapter-count typo + vague Ch.4 phrasing, 2nd pass | None |
 | HERALD | Working | Both listings live, no-refund set. Cross-sell email to WAS buyers not yet written | No real buyer list exists yet — 0 sales, nothing to send to |
 | VAULT | Working | Tracking $0.00 real revenue across 8 rooms, watching for first sale | None |
-| SCOUT | Researching | Christmas POD trend research; queued Credit Score + Frugal Living Architect topics | None |
+| SCOUT | Researching | Christmas POD trend research; queued Credit Score + Frugal Living Architect topics; now also: AI Tools/SaaS competitor research + applying to SoFi/Acorns/Credit Karma affiliate programs | None |
 | PULSE | Working | 9 posts live in Metricool, auto-publish on, comment-to-DM live (VAULT/SAVE keywords) | None |
 | REEL | Idle | Not yet activated | Waiting on Instagram cadence to prove out |
 
@@ -35,7 +35,12 @@ This file exists because a real gap surfaced 2026-09-30: every character's curre
 
 ## SaaS & AI Tools
 
-Not active. No agents assigned yet.
+**Activated 2026-10-05, PROTON's call.** Research/design phase only, zero spend.
+
+| Role | Status | Current task | Blocker |
+|---|---|---|---|
+| SCOUT | Researching | AI automation/agent tool competitor research — pricing, what's actually selling | None |
+| THE MECHANIC | Not started | Scoping what's technically realistic to package and sell | Waiting on SCOUT's research |
 
 ## Freelance / Agency
 
@@ -43,9 +48,19 @@ Not active. No agents assigned yet.
 
 ## Trading Desk (separate wing)
 
+**Still Phase 1 only — build/backtest, no real money, no product talk, per the trading rules PROTON himself locked in.** PROTON named "signal products" as a goal 2026-10-05, but Rule 4 (never sell before 6 months of real documented live results) isn't negotiable just because the ask came from him in the moment — that's the whole point of a rule like that.
+
 | Role | Status | Current task | Blocker |
 |---|---|---|---|
-| Trading Research | Not active | No backtesting has started. Phase 1 requires a documented strategy before any historical test runs | No strategy defined yet |
+| Trading Research | Not active | No backtesting has started. Next real step: define the first strategy to backtest (default direction: Minervini VCP / CANSLIM on US equities, per PROTON's own named methodologies) | Needs PROTON to confirm that direction or name a different one |
+
+## Affiliate (new, zero-build revenue layer)
+
+**Queued 2026-10-05.** No product to design — just applying to real programs and placing links once accepted.
+
+| Role | Status | Current task | Blocker |
+|---|---|---|---|
+| SCOUT | Researching | Applying to SoFi, Acorns, Credit Karma affiliate programs | None |
 
 ## Last updated
-2026-09-30, by Claude, cross-checked against `org/revenue-ledger.md` and `product/instagram-content-plan.md`.
+2026-10-05, by Claude, cross-checked against `org/agent-team.md` and `product/instagram-content-plan.md`.
