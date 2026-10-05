@@ -16,10 +16,10 @@ This file exists because a real gap surfaced 2026-09-30: every character's curre
 
 | Role | Status | Current task | Blocker |
 |---|---|---|---|
-| SCRIBE | Idle | Shipped The Savings Architect (6 ch.) 2026-09-28. Next: The Credit Score Architect | None |
-| PRISM | Idle | Shipped 6 covers this week (Vault + Savings Architect, flat + 3D each) | None |
-| FORGE | Idle | Last build: Savings Architect PDF, 8pp, verified | None |
-| WARDEN | Idle | Last QA pass caught chapter-count typo + vague Ch.4 phrasing, 2nd pass | None |
+| SCRIBE | Idle | Shipped The Dating Architect (7 ch.) 2026-10-05 — first non-finance topic in this catalog. Next: The Debt Freedom Architect | None |
+| PRISM | Idle | Shipped Dating Architect cover + 2 infographics (compass motif, navy/gold) 2026-10-05 | None |
+| FORGE | Idle | Last build: Dating Architect PDF, 11pp, verified via pdf_properties (fonts, page count, images) | None |
+| WARDEN | Idle | Dating Architect: 2 QA passes done (em-dash/tone fix, claim check) — passed | None |
 | HERALD | Working | Both listings live, no-refund set. Cross-sell email to WAS buyers not yet written | No real buyer list exists yet — 0 sales, nothing to send to |
 | VAULT | Working | Tracking $0.00 real revenue across 8 rooms, watching for first sale | None |
 | SCOUT | Researching | Christmas POD trend research; queued Credit Score + Frugal Living Architect topics; now also: AI Tools/SaaS competitor research + applying to SoFi/Acorns/Credit Karma affiliate programs | None |
@@ -63,4 +63,4 @@ Not active. No agents assigned yet.
 | SCOUT | Researching | Applying to SoFi, Acorns, Credit Karma affiliate programs | None |
 
 ## Last updated
-2026-10-05, by Claude, cross-checked against `org/agent-team.md` and `product/instagram-content-plan.md`.
+2026-10-05 (second update today), by Claude, cross-checked against `org/revenue-ledger.md`, `org/agent-team.md`, and `product/instagram-content-plan.md`.
