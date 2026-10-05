@@ -20,7 +20,7 @@ Built per `org/operating-model.md`'s Content/Creator chain (`personal-brand` →
 
 ## Cadence
 
-Account is brand new (1 post live) — front-load consistency to build initial signal. **5 posts/week to start** (Mon-Fri), mixing carousels and single-image posts. This is the Slight Edge rule in practice: the daily discipline of posting is what compounds, not any single post.
+**Changed 2026-10-05, PROTON's explicit call: 7 posts/week, every day, no gaps.** The original 5/week (Mon-Fri) plan was the front-load-consistency starting point for a brand new account — that phase is over. Every future week's batch includes Saturday and Sunday, same 4 pillars, same growth rules, no exceptions. Weekend slots default to Mindset or Identity/aspiration (no CTA) unless there's a real reason to break that pattern — lower-pressure content fits a day people are scrolling for themselves, not researching a purchase.
 
 ## Bio link — CHANGED 2026-09-28, now points to the full storefront
 
@@ -84,7 +84,7 @@ Bio is live, now pointing to the full Gumroad storefront (see Bio link section a
 
 ## Week 2 — ready to post
 
-Bio link is resolved, so this batch includes a CTA post (1-in-5, per the growth rules above). 5 posts, matching the established Mon-Fri cadence — not 7, since the plan's own cadence rule already says Mon-Fri only and Sat/Sun get nothing scheduled.
+Bio link is resolved, so this batch includes a CTA post (1-in-5, per the growth rules above). Originally 5 posts on the Mon-Fri-only cadence — **the weekend gap after this batch is now closed below**, per the 2026-10-05 move to 7-day posting.
 
 **Post 6 (Framework teaser) — The Habits That Make This Stick**
 > A framework only works if you actually keep doing it after the excitement wears off.
@@ -128,6 +128,22 @@ Bio link is resolved, so this batch includes a CTA post (1-in-5, per the growth 
 **Graphic (built 2026-09-28, spelling verified):** https://d8j0ntlcm91z4.cloudfront.net/user_3DRitQw0a8l5E8VtiHel0ReRB0I/hf_20260928_163633_5679b567-7d53-489a-946d-b9a766c11377.png
 
 **Scheduled:** Fri 2026-10-09, 10am ET, auto-publish. Hashtags added: #FinancialFreedom #WealthBuilding #PersonalFinance #MoneyTips #AIprompts
+
+## Weekend bridge posts (added 2026-10-05, closing the Sat/Sun gap)
+
+The first real posts under the new 7-day cadence — written now so there's no gap between Week 2 (ends Fri 10/9) and Week 3 (starts Mon 10/12). Both Mindset/Identity, no CTA, matching the weekend default in the Cadence section above.
+
+**Post 10A (Mindset) — Sat 2026-10-10**
+> Weekends don't pause the plan. They just make it easier to pretend you did.
+> The habit that actually compounds isn't the one you keep on your best day. It's the one you keep on a Saturday with nothing forcing you to.
+
+**Scheduled:** Sat 2026-10-10, 10am ET, auto-publish. Hashtags: #FinancialFreedom #MoneyMindset #PersonalFinance #WealthBuilding #Discipline
+
+**Post 10B (Identity/aspiration) — Sun 2026-10-11**
+> Nobody's financially free by accident. Somebody built the system first, then the freedom followed.
+> You can start building yours today. Not "eventually."
+
+**Scheduled:** Sun 2026-10-11, 10am ET, auto-publish. Hashtags: #FinancialFreedom #WealthBuilding #PersonalFinance #MoneyMindset #Motivation
 
 ## Post 11 (Offer/CTA) — The Generational Wealth Prompt Vault launch — ready to post
 
@@ -243,7 +259,19 @@ First real conversion of the 30-Day Calendar's planning rows (Posts 12-16) into 
 
 **Scheduled:** Fri 2026-10-16, 10am ET, auto-publish. Hashtags: #AIprompts #FinancialFreedom #WealthBuilding #PersonalFinance #ChatGPTprompts
 
-**Not done yet:** matching graphics for Posts 12-16 — PRISM/REEL's job once PROTON gives the go-ahead on these captions, same staged order as every batch before this one. Nothing scheduled in Metricool yet; these are drafted and ready, not yet entered.
+**Post 16A (Mindset) — Sat 2026-10-17**
+> A good week doesn't end on Friday. It ends whenever you stop showing up — Saturday counts too.
+> The plan doesn't know what day it is. It only knows whether you followed it.
+
+**Scheduled:** Sat 2026-10-17, 10am ET, auto-publish. Hashtags: #FinancialFreedom #MoneyMindset #PersonalFinance #WealthBuilding #Discipline
+
+**Post 16B (Identity/aspiration) — Sun 2026-10-18**
+> The version of you with a real plan doesn't take weekends off from thinking about money. They just stopped being stressed about it.
+> That's the actual difference a plan buys you.
+
+**Scheduled:** Sun 2026-10-18, 10am ET, auto-publish. Hashtags: #FinancialFreedom #WealthBuilding #PersonalFinance #MoneyMindset #Motivation
+
+**Not done yet:** matching graphics for Posts 12-16, 16A, and 16B — PRISM/REEL's job once PROTON gives the go-ahead on these captions, same staged order as every batch before this one. Nothing scheduled in Metricool yet; these are drafted and ready, not yet entered. **Going forward, every week PULSE drafts includes Sat/Sun from the start** — Week 3 needed these added after the fact only because the cadence changed mid-batch.
 
 ## First AI Prompt Playbook carousel — ready to build
 
