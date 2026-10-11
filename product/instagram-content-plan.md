@@ -275,6 +275,57 @@ First real conversion of the 30-Day Calendar's planning rows (Posts 12-16) into 
 
 **Not done yet:** matching graphics for Posts 12-16, 16A, and 16B — PRISM/REEL's job once PROTON gives the go-ahead on these captions, same staged order as every batch before this one. Nothing scheduled in Metricool yet; these are drafted and ready, not yet entered. **Going forward, every week PULSE drafts includes Sat/Sun from the start** — Week 3 needed these added after the fact only because the cadence changed mid-batch.
 
+## Week 4 — ready to post (drafted 2026-10-11, PULSE weekly batch)
+
+Second conversion of the 30-Day Calendar's planning rows (Posts 17-21) into full captions, same process as Week 3. Bio link is still resolved and live (see Bio link section above), so this batch keeps its one CTA post per the 1-in-5 rule. Weekend bridge posts (21A/21B) are new — the 30-Day Calendar itself predates the 7-day cadence call and never included weekend rows, so these are written fresh, same Mindset/Identity pattern as every weekend slot so far.
+
+**Post 17 (Vault-category teaser) — Debt Payoff (Vault 2.1)**
+> Avalanche or snowball? The math says one thing. Your motivation might say another.
+> "List every debt with its balance and rate, show me both payoff orders, and tell me which fits if I need quick wins." One vault prompt turned 3 real debts into a clear answer: snowball clears the first card in 3 months instead of 11, avalanche saves more on total interest.
+> Comment VAULT and I'll send you the link.
+
+**Scheduled:** Mon 2026-10-19, 10am ET, auto-publish (pending go-ahead). Hashtags: #AIprompts #DebtFree #FinancialFreedom #PersonalFinance #WealthBuilding
+
+**Post 18 (Mindset) — The one bad month panic**
+> One expensive month doesn't undo a system. It's a data point, not a verdict.
+> The plan isn't broken because one month went sideways. It's broken if you stop looking at it. Review it, adjust, keep going.
+
+**Scheduled:** Tue 2026-10-20, 10am ET, auto-publish (pending go-ahead). Hashtags: #FinancialFreedom #MoneyMindset #PersonalFinance #WealthBuilding #Discipline
+
+**Post 19 (AI Prompt Playbook) — Business & Offer Building (Vault 4.1)**
+> Turn what you're selling into an actual offer in one prompt.
+> "Here's what I'm selling, build me a value stack plus 3 price points with the reasoning behind each." One vault prompt turned a single offer into 3 real tiers, an entry price, an anchor, and a premium option, each with a reason attached instead of a guess.
+> Comment VAULT and I'll send you the link.
+
+**Scheduled:** Wed 2026-10-21, 10am ET, auto-publish (pending go-ahead). Hashtags: #AIprompts #OfferCreation #FinancialFreedom #WealthBuilding #SideHustle
+
+**Post 20 (Identity/aspiration) — Debt-free is a decision**
+> Debt-free isn't an income level. It's an order of operations, applied on repeat.
+> The people who get there first aren't the ones who earned more. They're the ones who followed the order and didn't stop.
+
+**Scheduled:** Thu 2026-10-22, 10am ET, auto-publish (pending go-ahead). Hashtags: #FinancialFreedom #WealthBuilding #PersonalFinance #MoneyMindset #Motivation
+
+**Post 21 (Offer/CTA) — The Wealth Architect System**
+> The paycheck split. The payoff order. Where money actually grows.
+> One guide, $5.99, built to turn "I should really figure this out" into a system you actually follow.
+> Link in bio.
+
+**Scheduled:** Fri 2026-10-23, 10am ET, auto-publish (pending go-ahead). Hashtags: #FinancialFreedom #WealthBuilding #PersonalFinance #MoneyTips #Investing
+
+**Post 21A (Mindset) — Sat 2026-10-24**
+> A plan doesn't check what day it is before it asks you to show up.
+> Saturday's version of staying on track just looks quieter than Monday's. Same decision, smaller audience.
+
+**Scheduled:** Sat 2026-10-24, 10am ET, auto-publish (pending go-ahead). Hashtags: #FinancialFreedom #MoneyMindset #PersonalFinance #WealthBuilding #Discipline
+
+**Post 21B (Identity/aspiration) — Sun 2026-10-25**
+> The version of you that has it together isn't working harder than you. They just stopped negotiating with themselves on the days it's inconvenient.
+> That's the entire gap.
+
+**Scheduled:** Sun 2026-10-25, 10am ET, auto-publish (pending go-ahead). Hashtags: #FinancialFreedom #WealthBuilding #PersonalFinance #MoneyMindset #Motivation
+
+**Not done yet:** matching graphics for Posts 17-21, 21A, and 21B, and nothing is entered in Metricool yet. Per the standing staged order, visuals don't start until PROTON gives the go-ahead on these captions — flagging that explicitly below, not assuming it.
+
 ## First AI Prompt Playbook carousel — ready to build
 
 **Title slide:** "5 AI Prompts That Can Actually Start Your Business Today"
