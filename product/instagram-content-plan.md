@@ -133,17 +133,19 @@ Bio link is resolved, so this batch includes a CTA post (1-in-5, per the growth 
 
 The first real posts under the new 7-day cadence — written now so there's no gap between Week 2 (ends Fri 10/9) and Week 3 (starts Mon 10/12). Both Mindset/Identity, no CTA, matching the weekend default in the Cadence section above.
 
-**Post 10A (Mindset) — Sat 2026-10-10**
+**Post 10A (Mindset) — Sat 2026-10-10 — MISSED, logged plainly, no blame**
 > Weekends don't pause the plan. They just make it easier to pretend you did.
 > The habit that actually compounds isn't the one you keep on your best day. It's the one you keep on a Saturday with nothing forcing you to.
 
-**Scheduled:** Sat 2026-10-10, 10am ET, auto-publish. Hashtags: #FinancialFreedom #MoneyMindset #PersonalFinance #WealthBuilding #Discipline
+The graphic was built and verified in time, but never actually entered into Metricool's scheduler that day — an execution gap on PULSE's end, not PROTON's. Caught and fixed the next day rather than silently let it slide. Not re-posted separately; the mindset content rolls forward into a future weekend slot instead of doubling up.
 
-**Post 10B (Identity/aspiration) — Sun 2026-10-11**
+**Post 10B (Identity/aspiration) — Sun 2026-10-11 — LIVE/SCHEDULED**
 > Nobody's financially free by accident. Somebody built the system first, then the freedom followed.
 > You can start building yours today. Not "eventually."
 
-**Scheduled:** Sun 2026-10-11, 10am ET, auto-publish. Hashtags: #FinancialFreedom #WealthBuilding #PersonalFinance #MoneyMindset #Motivation
+**Graphic:** https://d8j0ntlcm91z4.cloudfront.net/user_3DRitQw0a8l5E8VtiHel0ReRB0I/hf_20261011_130630_17e2f9e5-ff80-4ae5-89ef-8f56d0b0b027.png
+
+**Scheduled:** Sun 2026-10-11, 10am ET, auto-publish. Hashtags: #FinancialFreedom #WealthBuilding #PersonalFinance #MoneyMindset #Motivation. Confirmed entered in Metricool (post id 393269886).
 
 ## Post 11 (Offer/CTA) — The Generational Wealth Prompt Vault launch — ready to post
 
