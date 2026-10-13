@@ -54,6 +54,13 @@ Chain: `personal-brand` → `content-strategy` → `social-content` → `lead-ma
 
 **The Gumroad Content Engine — ACTIVE.** Per PROTON's request to have Claude working continuously in the background rather than one-off per drop, a standing SOP now runs the whole pipeline (topic → research/write → design → 2-pass QA → package) on a weekly recurring trigger, detailed in `org/gumroad-content-engine.md`. PROTON still does the final Gumroad upload click by design — this satisfies both his request for continuous output and `org/mission.md`'s no-autonomous-publish safeguard. Cadence starts weekly with an explicit path to daily once quality-at-speed is proven with real data, not a guess. Next topic in motion: **The Savings Architect.**
 
+**New initiative: The Paycheck-to-Zero System — DRAFT, registered 2026-10-13, not yet approved.** A
+budgeting + debt-payoff spreadsheet (Google Sheet, 2 tabs only) + short faceless guide, $19-29, sourced
+from Javier's Muse-researched "Wealth Architect Sales System" master prompt. Full draft (product outline,
+7 launch hooks, 3 sales templates, setup check, store audit) in `product/paycheck-to-zero-draft.md`.
+Staying in draft — no build, no schedule, no send — until PROTON approves per the prompt's own explicit
+gate.
+
 **Faceless Instagram — LIVE.** Handle: `thewealtharchitect`. Bio: "Raised by pain. Guided by discipline." **Bio link resolved 2026-09-28** — now points to the full Gumroad storefront (`https://thewealtharchitecthq.gumroad.com`), not the old personal TikTok leftover. Full detail and history in `product/instagram-content-plan.md`'s "Bio link" section.
 
 ---
