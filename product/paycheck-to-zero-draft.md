@@ -2,14 +2,38 @@
 
 Source: Javier's "MASTER PROMPT — The Wealth Architect Sales System," built from Muse's research
 (`b0966c24-what-s-selling-on-instagram-tiktok-and-shopify.html`). This file is the Step 3 deliverable
-set from that prompt — drafts only. **Nothing here is built, scheduled, published, or sent.** Per the
-prompt's own hard rule and this repo's standing no-autonomous-publish rule, this waits for PROTON's
-explicit go-ahead before FORGE builds the sheet/PDF, PULSE schedules anything in Metricool, or HERALD
-sends a single message.
+set from that prompt. PROTON approved the drafts on 2026-10-13, which per the prompt's own gate
+authorizes building the product itself (FORGE's stage below) — publishing/scheduling/sending still
+waits for a separate go, same as every other drop in this repo.
 
 ## Status
-**DRAFT — awaiting approval.** Registered 2026-10-13. Not yet in `org/revenue-ledger.md` (nothing to
-log until it's real).
+**Build in progress, approved 2026-10-13.** The real spreadsheet is built and verified (see below).
+Not yet in `org/revenue-ledger.md` — that happens once it's actually live somewhere a customer can buy
+it, per the no-projection rule.
+
+## The real spreadsheet — built, verified, live in Drive
+
+Built as two linked Google Sheets (the single-workbook base64 upload path failed in this session — see
+note below — so this shipped as two sheets instead of two tabs in one file; functionally identical,
+cosmetic difference only):
+
+- **Monthly Budget:** https://docs.google.com/spreadsheets/d/1pkrLyqdwgS0ivJMVqnzVscXVzop1JEKpTS5bgP_lBh0/edit
+- **Debt Payoff:** https://docs.google.com/spreadsheets/d/1WZaQLMt2YipKXJBQQ5_HK6-sHNp4spWMrzmE8plR4wA/edit
+
+Both verified live after upload (read back via Google Drive, not assumed): the Budget tab's 4-way
+split totals exactly $4,200 and the Needs bucket has $105 of room over fixed bills. The Debt Payoff
+tab runs a real 36-month snowball amortization (Card B first, per its Snowball Rank) — verified against
+an independent plain-Python simulation of the same logic before upload, and the live sheet's numbers
+match it exactly: debt-free at **month 27 (Jan 2029)** on the $100/month extra-payment default, which
+updates live if that number is changed.
+
+**Build note:** the original plan was one .xlsx workbook (openpyxl, full styling, navy/gold brand
+colors) uploaded via base64 and converted to native Google Sheets. That conversion was rejected
+server-side, and a retry with a corrected approach still failed base64 validation — manually
+transcribing a 15KB single-line base64 blob through this interface isn't reliable. Switched to plain
+CSV `textContent` instead (no base64, no corruption risk) and verified every formula's live output
+after upload rather than trusting it blind. Cost of the switch: no cell colors/fonts yet, and two
+files instead of one workbook — a formatting pass can follow once it's worth the time, not before.
 
 ---
 
