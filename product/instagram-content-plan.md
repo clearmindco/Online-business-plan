@@ -326,6 +326,57 @@ Second conversion of the 30-Day Calendar's planning rows (Posts 17-21) into full
 
 **Not done yet:** matching graphics for Posts 17-21, 21A, and 21B, and nothing is entered in Metricool yet. Per the standing staged order, visuals don't start until PROTON gives the go-ahead on these captions — flagging that explicitly below, not assuming it.
 
+## Week 5 — ready to post (drafted 2026-10-18, PULSE weekly batch)
+
+Third conversion of the 30-Day Calendar's planning rows (Posts 22-26) into full captions, same process as Weeks 3-4. Bio link is still resolved and live (see Bio link section above), so this batch keeps its one CTA post per the 1-in-5 rule. Post 22's "renting" myth-reframe is a general mindset point, not a statistic — no specific numbers invented, consistent with the no-invented-claims rule. Weekend bridge posts (26A/26B) are new, same pattern as every weekend slot so far.
+
+**Post 22 (Framework teaser) — Money Myths, part 2**
+> "Renting is throwing money away" isn't true. It's just incomplete.
+> A mortgage payment isn't automatically smarter than rent. It depends on how long you'll stay, what ownership actually costs beyond the payment, and what else that money could be doing instead. Chapter 6 walks through the real comparison instead of the slogan.
+> Full breakdown in The Wealth Architect System. Link in bio.
+
+**Scheduled:** Mon 2026-10-26, 10am ET, auto-publish (pending go-ahead). Hashtags: #FinancialFreedom #PersonalFinance #MoneyMyths #WealthBuilding #MoneyTips
+
+**Post 23 (Mindset) — Discipline vs. motivation**
+> Motivation got you started. It won't get you to month 6.
+> Discipline doesn't ask permission and it doesn't wait until you feel like it. That's the entire difference between a plan you tried and a plan that worked.
+
+**Scheduled:** Tue 2026-10-27, 10am ET, auto-publish (pending go-ahead). Hashtags: #FinancialFreedom #MoneyMindset #PersonalFinance #WealthBuilding #Discipline
+
+**Post 24 (Vault-category teaser) — Income Growth & Side Hustles (Vault 3.4)**
+> 6 hours a week and a skill you already have is enough to start.
+> "Here are the skills I already have, here's the time I have, give me 5 side hustle ideas ranked by how fast each hits a first dollar." One vault prompt turned writing, design, and event-planning skills into a ranked list, fastest option first, no guessing where to begin.
+> Comment VAULT and I'll send you the link.
+
+**Scheduled:** Wed 2026-10-28, 10am ET, auto-publish (pending go-ahead). Hashtags: #AIprompts #SideHustle #FinancialFreedom #WealthBuilding #PersonalFinance
+
+**Post 25 (Identity/aspiration) — The side hustle that starts with what you have**
+> You don't need a new skill. You need to stop underpricing the one you already have.
+> The version of you that's actually making extra income didn't wait for a certification. They just started charging for what they already know.
+
+**Scheduled:** Thu 2026-10-29, 10am ET, auto-publish (pending go-ahead). Hashtags: #FinancialFreedom #WealthBuilding #PersonalFinance #MoneyMindset #Motivation
+
+**Post 26 (Offer/CTA) — The Generational Wealth Prompt Vault**
+> Every prompt is fill-in-the-blank. No guessing what to type, no generic AI answers.
+> 70 prompts, 7 categories, built around your real numbers instead of generic advice.
+> Comment VAULT and I'll send you the link. $27, instant download.
+
+**Scheduled:** Fri 2026-10-30, 10am ET, auto-publish (pending go-ahead). Hashtags: #AIprompts #FinancialFreedom #WealthBuilding #PersonalFinance #ChatGPTprompts
+
+**Post 26A (Mindset) — Sat 2026-10-31**
+> A plan doesn't pause for the weekend, and it doesn't need the weekend to pause for it either.
+> You don't need extra time to stay consistent. You need the same ten minutes you'd use on any other day.
+
+**Scheduled:** Sat 2026-10-31, 10am ET, auto-publish (pending go-ahead). Hashtags: #FinancialFreedom #MoneyMindset #PersonalFinance #WealthBuilding #Discipline
+
+**Post 26B (Identity/aspiration) — Sun 2026-11-01**
+> New month, same system. The version of you with it together didn't restart in January. They just kept going.
+> Nothing resets except the calendar. The plan carries over.
+
+**Scheduled:** Sun 2026-11-01, 10am ET, auto-publish (pending go-ahead). Hashtags: #FinancialFreedom #WealthBuilding #PersonalFinance #MoneyMindset #Motivation
+
+**Not done yet:** matching graphics for Posts 22-26, 26A, and 26B, and nothing is entered in Metricool yet. This is now the third straight week of drafted-but-unapproved batches — Weeks 3, 4, and 5 are all sitting on the same go-ahead.
+
 ## First AI Prompt Playbook carousel — ready to build
 
 **Title slide:** "5 AI Prompts That Can Actually Start Your Business Today"
