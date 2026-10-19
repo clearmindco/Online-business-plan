@@ -10,6 +10,7 @@ This is the number "at the top of each room" PROTON asked for: real revenue per 
 | **Generational Wealth Prompt Vault** (Content/Creator) | $0 | 0 | **Live on Gumroad at $27** — https://thewealtharchitecthq.gumroad.com/l/qpvbsl | Set once first sale lands |
 | **The Savings Architect** (Content/Creator) | $0 | 0 | **Live on Gumroad at $6.99** — https://thewealtharchitecthq.gumroad.com/l/gfegtn | Set once first sale lands |
 | **The Dating Architect** (Content/Creator) | $0 | 0 | **Packaged 2026-10-05, ready to upload at $6.99** — not yet live, waiting on PROTON's upload click. Manuscript: `product/dating-architect.md`, listing: `product/dating-architect-gumroad-listing.md` | Set once first sale lands |
+| **The Comeback Architect** (Content/Creator) | $0 | 0 | **Packaged 2026-10-19, not yet upload-ready at $6.99** — PROTON's explicit pick, first drop built on the new "hope is the core promise" brand rule. Still needs: cover art (none generated yet) and a font fix (PDF rendered Times New Roman, not this catalog's Arial standard). Manuscript: `product/comeback-architect.md`, listing: `product/comeback-architect-gumroad-listing.md` | Set once first sale lands |
 | **Money-Mindset Apparel** | $0 | 0 | Design phase — not listed anywhere yet | Set once listed and first sale lands |
 | **Mom Coffee Mugs** | $0 | 0 | Research done, design phase | Set once listed and first sale lands |
 | **Teacher Store** | $0 | 0 | Research done, design phase | Set once listed and first sale lands |
