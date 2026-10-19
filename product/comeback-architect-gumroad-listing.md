@@ -52,12 +52,14 @@ debt relief, financial recovery, money mindset, personal finance, budgeting, fin
 Business & Money (fall back to Self Improvement if that category isn't available in the account's list — same fallback rule as The Savings Architect).
 
 ## Cover image
-**Not generated yet.** This is the one gap left before this can actually go up — every other live/packaged drop in this catalog shipped with cover art first. Needs a flat vector cover (navy/gold architect's compass, matching this line's visual signature) before upload. Flagging this honestly rather than shipping without one.
+Two flat vector options generated 2026-10-19, matching the series' navy/gold architect's-compass signature with a new dawn/sunrise element (the compass's open legs form a horizon, with a gold sunrise arc rising through it — the hope motif this book is built around). One continuous silhouette, no clip-art collage, no glow/neon, passes the flat/thumbnail test in `org/brand-standards.md`. PROTON picks one before upload:
+- Option A: https://d8j0ntlcm91z4.cloudfront.net/user_3DRitQw0a8l5E8VtiHel0ReRB0I/hf_20261019_134748_3ef002ab-350e-484a-a12d-324e8a46451a.svg
+- Option B: https://d8j0ntlcm91z4.cloudfront.net/user_3DRitQw0a8l5E8VtiHel0ReRB0I/hf_20261019_134749_2838e10d-ea5e-4692-b89d-b1982fb253c8.svg
 
 ## Content file
-Final PDF: https://to.adobe.com/ArDuNIet0u7o3Scf00OnAdRLwMl3
+Final PDF: https://to.adobe.com/Y5PGcFjG7erGQxsXp7qMUnvoE6YG
 
-**Font flag, not hidden:** `pdf_properties` shows this one rendered in Times New Roman, not the Arial/Arimo this catalog has used on every prior drop (Wealth Architect System, Savings Architect, Dating Architect). The markdown_to_pdf tool doesn't expose a font parameter, so this is a tool-side inconsistency, not a content choice. Worth a re-run or a manual font swap before upload if PROTON wants to hold the line on the de facto typography standard in `org/gumroad-content-engine.md`. 4 pages (shorter page count than the 7-page Dating Architect at similar chapter count, likely a density/margin difference from the same font shift).
+Font fixed 2026-10-19: the first pass rendered in Times New Roman (a markdown_to_pdf default, not a content choice). Re-ran with an embedded style override forcing Arial; `pdf_properties` now confirms Arial-BoldMT / ArialMT / Arial-ItalicMT, matching the catalog standard. 4 pages.
 
 ## Refund policy
 Set the Gumroad refund policy setting to "No refunds." Matches the standing rule used on every other listing in this catalog.
